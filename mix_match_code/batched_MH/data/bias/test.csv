@@ -1,0 +1,900 @@
+,sen,sendel,oricat,verbs,storyid,sentencenum
+0,He noticed a bad smell in there.,He <VERB> a bad smell in there . ,equal,notice ,8c6bbd54-cb45-4f81-a377-272bb328d225,2
+1,He looked through apartment magazines and Craigslist ads.,He <VERB> through apartment magazines and Craigslist ads . ,equal,look ,8d1eb115-ab47-42f3-8dec-fc58bab97283,2
+2,Kelley felt sick.,Kelley <VERB> sick . ,equal,feel ,26234c62-c70d-4953-b04d-d20cdde98f29,1
+3,Jill was going on a trip to the amazon.,Jill was <VERB> on a trip to the amazon . ,equal,go ,865db3c4-a253-4d35-8766-25fc7e0a8cfb,1
+4,He left her alone.,He <VERB> her alone . ,equal,leave ,6e68fa0b-3587-432a-85fe-b217e93e9706,5
+5,I watched the ten o'clock news and now I know Gary Shandling is dead.,I watched the ten o'clock news and now I <VERB> Gary Shandling is dead . ,neg,know ,26fba82c-3931-40cc-9abc-451539070c6c,5
+6,There was 30 seconds left in the 4th quarter.,There was 30 seconds <VERB> in the 4th quarter . ,equal,leave ,4532f69a-e63c-4ca0-bf6f-9e14ab01d2ed,1
+7,One day he heard his dog barking very loudly in the backyard.,One day he heard his dog <VERB> very loudly in the backyard . ,equal,bark ,2437c441-0d5b-47bf-8dab-447369bf9bc9,3
+8,Addie was going on a first date with Brian.,Addie was <VERB> on a first date with Brian . ,equal,go ,84ebc73e-ba4f-4326-9a33-a2ed795f256a,1
+9,They offered to pay half if Cara paid the other half.,They offered to <VERB> half if Cara <VERB> the other half . ,equal,pay ,5e32428a-5bfe-4167-8439-38c48f041926,4
+10,Jody noticed the quilt patches looked like her grandma's dresses.,Jody noticed the quilt patches <VERB> like her grandma 's dresses . ,equal,look ,fac5ffda-545c-4e3a-9f2a-d26c55e214fd,5
+11,I quickly looked for a gas station to refuel.,I quickly <VERB> for a gas station to refuel . ,equal,look ,34df18d4-24e6-4e83-83ab-ed5573f40df7,4
+12,He honestly looked forward to sitting in his chair with his coffee.,He honestly <VERB> forward to sitting in his chair with his coffee . ,equal,look ,aa1c488d-1d52-4eca-ae54-81fbe036ac32,2
+13,He went to the mirror to see if there are any bruises.,He <VERB> to the mirror to see if there are any bruises . ,equal,go ,a70e31ec-58ee-4924-833e-4e6ea0f4d2b4,4
+14,I lost the first battle.,I <VERB> the first battle . ,equal,lose ,d6b7875e-71ff-4ce1-a32a-dcba3ac5ee65,5
+15,When it arrived it was the perfect size.,When it <VERB> it was the perfect size . ,equal,arrive ,ead380ba-dbd9-4daf-97b1-39ae6b0e8567,2
+16,Tom was looking for a job.,Tom was <VERB> for a job . ,equal,look ,5834d63a-2cb6-41bb-89c6-55893030366f,1
+17,His girlfriend felt the pressure from it.,His girlfriend <VERB> the pressure from it . ,equal,feel ,33cfb1f9-ff17-4bf1-9a88-8ce559c2f8fd,2
+18,Aline was going with her friend Kento to Paducah to shop.,Aline was <VERB> with her friend Kento to Paducah to shop . ,equal,go ,add57866-8faf-4f05-af10-54ab7d5ef677,1
+19,Terry was super excited to go his walk and he barked in delight.,Terry was super excited to go his walk and he <VERB> in delight . ,equal,bark ,9d57f2f3-6982-42f4-b2f4-3fad332b4487,2
+20,Anna hates it when her mother cries.,Anna hates it when her mother <VERB> . ,equal,cry ,ffb7a1d9-89b8-456a-a042-64bc4cbdd1ca,1
+21,A day after his twenty-first birthday he went back to Las Vegas.,A day after his twenty - first birthday he <VERB> back to Las Vegas . ,equal,go ,6b72936a-bd6a-447d-95d8-c8c54aa19718,5
+22,There was going to be a dance at school.,There was <VERB> to be a dance at school . ,equal,go ,7fb3e65c-b11b-4870-ac70-a07a4470a73c,1
+23,Ethan went to the lake with his family.,Ethan <VERB> to the lake with his family . ,equal,go ,fb651991-af38-455f-8866-81dbca022dd3,1
+24,All of a sudden his Internet connection went out.,All of a sudden his Internet connection <VERB> out . ,equal,go ,f48947c7-e78d-4cc4-a50d-2b191afb0ea1,2
+25,"While out on the ocean, his fishing boat lost power.","While out on the ocean , his fishing boat <VERB> power . ",equal,lose ,f26fffa4-f374-47c4-aca8-e2ebbb020b68,2
+26,Then he saw me and he noticed my key chain.,Then he saw me and he <VERB> my key chain . ,equal,notice ,4ea5ddcd-3949-40ac-8290-54df19dfb583,4
+27,"On his last day, he felt like something was missing.","On his last day , he <VERB> like something was missing . ",equal,feel ,77fe8b76-5237-49f2-8081-8db00af22232,4
+28,Mary invited John to her party.,Mary <VERB> John to her party . ,equal,invite ,73c1079b-2e80-4566-a91b-c59281414c7a,1
+29,Bruno's older brother was serving in Vietnam.,Bruno 's older brother was <VERB> in Vietnam . ,equal,serve ,03215a44-cba4-4403-974e-34f0654c1594,1
+30,Her labor was going roughly and she struggled.,Her labor was <VERB> roughly and she struggled . ,equal,go ,829cd695-2afb-430b-8e45-58fe1d7346e3,2
+31,He sniffed around the yard.,He <VERB> around the yard . ,equal,sniff ,09edff75-9618-48c3-b0ab-165d47519a9c,4
+32,He looked everywhere but couldn't find it.,He looked everywhere but could n't <VERB> it . ,equal,find ,59e6a94c-9db5-4966-86f6-78c1536a7169,4
+33,Tom had never owned a new car.,Tom had never <VERB> a new car . ,equal,own ,33bbccca-d10e-4098-8e9a-a4910c93f6b8,1
+34,She found the kitten sleeping under her bed.,She <VERB> the kitten sleeping under her bed . ,equal,find ,c288d528-abea-4b87-9718-4a08769f620a,5
+35,One day the Smith family went to the amusement park.,One day the Smith family <VERB> to the amusement park . ,equal,go ,7e3a303b-81ef-4239-b115-eb8c4816ad6f,1
+36,Martin was looking at footage of the Challenger Deep.,Martin was <VERB> at footage of the Challenger Deep . ,equal,look ,731a3fb1-c3d4-4f43-a69b-aa6a58a28a6d,1
+37,The secretary looked in the lost in found at his school.,The secretary looked in the lost in <VERB> at his school . ,equal,find ,59fa929f-c46c-4465-a333-1aebca0188ed,4
+38,Bill realizes that a little kindness can go a long way.,Bill realizes that a little kindness can <VERB> a long way . ,equal,go ,cbd66f79-94ff-4565-8933-f0bec44f718a,5
+39,James looked out his window.,James <VERB> out his window . ,equal,look ,e9dcbb14-60a7-4621-a3de-b6c0917d3466,1
+40,Mary notices someone following her home.,Mary notices someone <VERB> her home . ,neg,follow ,1b9bfb62-1515-4632-b751-e09f56803782,1
+41,Justin suddenly pointed at the window and gestured to someone.,Justin suddenly pointed at the window and <VERB> to someone . ,equal,gesture ,dac47726-b396-432e-8115-ac1647fb9a64,2
+42,Jason had to pay lots of fines.,Jason had to <VERB> lots of fines . ,equal,pay ,a18cb0d8-56db-4ffa-b841-c7eb387da38a,5
+43,I went to museum with my class today.,I <VERB> to museum with my class today . ,equal,go ,b5f3b8a9-ee63-4cdc-b5ee-18d23370a348,1
+44,But she had lost her hair brush!,But she had <VERB> her hair brush ! ,equal,lose ,ccac619c-f954-4c2d-84bc-a31595369e54,2
+45,A family went out camping.,A family <VERB> out camping . ,equal,go ,08255eaa-3707-4090-a92d-1c9c7278284e,1
+46,Tina found out she needed contacts.,Tina <VERB> out she needed contacts . ,equal,find ,caa2092e-00a0-4e5f-b60a-418140ae3b23,1
+47,His wife agreed and they were both much happier afterward.,His wife <VERB> and they were both much happier afterward . ,equal,agree ,24d2754d-da5b-4022-ac77-7555c1003147,5
+48,Sam went to culinary school and learned about exotic flavors.,Sam <VERB> to culinary school and learned about exotic flavors . ,equal,go ,55e9552e-fffd-4472-acee-26109433a5d9,1
+49,After an hour to no avail she remembered she had an online account.,After an hour to no avail she <VERB> she had an online account . ,equal,remember ,5e4e2545-b5e5-4429-bd2b-277b1e8babe2,4
+50,Harry always wanted to live in a real home.,Harry always wanted to <VERB> in a real home . ,equal,live ,7482ab0a-d95b-4a53-a5dd-1eb0ee21d9cb,2
+51,When she arrived she found someone to talk to.,When she <VERB> she found someone to talk to . ,equal,arrive ,ec4c18ec-782e-4983-98d1-4147501ca0bb,4
+52,We could not find any that fit.,We could not <VERB> any that fit . ,equal,find ,c2cea0b3-cb83-4e69-8d7b-9fa8da209d5e,3
+53,She reprimanded the babysitter for letting him cry.,She reprimanded the babysitter for letting him <VERB> . ,equal,cry ,7e1d2570-20b3-4fb3-96ba-33f9ebc8cdf6,5
+54,Julie recently lost 100 pounds and was very proud.,Julie recently <VERB> 100 pounds and was very proud . ,equal,lose ,3d064608-3f7f-4119-880e-172a93bc3a90,1
+55,We found a monopoly game in his closet.,We <VERB> a monopoly game in his closet . ,equal,find ,358d171b-5e69-4938-bcef-ab4961864c9c,3
+56,"Then, I paid for it at the counter.","Then , I <VERB> for it at the counter . ",equal,pay ,0d5ae3cf-d86b-4b82-813f-7688bc200a1d,4
+57,He looked on the internet and in the newspapers.,He <VERB> on the internet and in the newspapers . ,equal,look ,92a04a5b-dc0a-4955-9afe-64860fc97af3,2
+58,John noticed that he had a lot of trash in his car.,John <VERB> that he had a lot of trash in his car . ,equal,notice ,58b2be49-baab-416c-901e-6ac7480c170c,1
+59,"The next day, he found an envelope on the floor.","The next day , he <VERB> an envelope on the floor . ",equal,find ,8d09040a-1d88-47ca-8f23-a24fd55f9de4,4
+60,Tom was living with his wife.,Tom was <VERB> with his wife . ,equal,live ,2fadd55b-cddd-4e7b-9aa8-20e203f5e953,1
+61,My friend Cindy lost her husband a couple months ago.,My friend Cindy <VERB> her husband a couple months ago . ,equal,lose ,ba033f73-0559-4b7e-ae0f-51ecdc6ae788,1
+62,We went to CA for a wedding in 2010.,We <VERB> to CA for a wedding in 2010 . ,equal,go ,dda733e6-3ad9-40ac-bf42-25fc7d3f689c,1
+63,Ali went back to her table no less confused than before.,Ali <VERB> back to her table no less confused than before . ,equal,go ,c0f45b6f-48f9-4c4f-a672-c3822a11159e,5
+64,"When she put the first bite in her mouth, her whole face redden.","When she <VERB> the first bite in her mouth , her whole face redden . ",equal,put ,dd2cec8d-d1f7-491b-a015-720c2d6529d4,3
+65,Our building internet went down on Saturday.,Our building internet <VERB> down on Saturday . ,equal,go ,85ec30a2-43f4-4ce9-871f-be25cce48aea,1
+66,They put a yucky pink putty in his mouth.,They <VERB> a yucky pink putty in his mouth . ,equal,put ,bdb01532-e285-4795-9c93-9a8fd9dcd3c6,3
+67,He went against his code.,He <VERB> against his code . ,equal,go ,1c137432-6b33-479a-85b3-32299cb674a8,4
+68,All he found was a couple of yummy peppermints.,All he <VERB> was a couple of yummy peppermints . ,equal,find ,f0ee15a1-d987-49b4-9874-c4fada93b704,4
+69,Jake wanted to go to his senior prom.,Jake wanted to <VERB> to his senior prom . ,equal,go ,36317a2c-f0d2-48c3-8b03-415a14e2ac9b,1
+70,"With one second left, I let out a chuckle.","With one second left , I <VERB> out a chuckle . ",equal,let ,f9805c8f-664d-4e8b-903d-c6f3b92c3566,5
+71,She noticed not long after that her game device was gone.,She noticed not long after that her game device was <VERB> . ,equal,go ,b55b8767-428d-4b4c-a276-a9d1a4256581,2
+72,She finds a ten-dollar bill in the left one.,She <VERB> a ten - dollar bill in the left one . ,equal,find ,7ea48f8a-17d3-4e4b-9d1a-ef1d010362d2,2
+73,She left all her friends behind in New Mexico.,She <VERB> all her friends behind in New Mexico . ,equal,leave ,2620c021-b14c-4dd7-a36f-13c64fb2c06a,2
+74,The furniture she liked was too expensive.,The furniture she <VERB> was too expensive . ,equal,like ,6cadf6d3-8172-41f0-ae98-fd255b3716d3,4
+75,I recently read Mr Wilson's and the Gap Band biography.,I recently <VERB> Mr Wilson 's and the Gap Band biography . ,equal,read ,fd2ac98b-d852-4935-8178-2d21249bd7c5,4
+76,Finally though I was able to leave.,Finally though I was able to <VERB> . ,equal,leave ,e1352b35-ead9-4550-89e0-69885763d01e,4
+77,It was a good distraction and they really liked her there.,It was a good distraction and they really <VERB> her there . ,equal,like ,483a345e-fc00-40cf-8137-b117ad7200fe,4
+78,Tyler went to jail for unpaid child support.,Tyler <VERB> to jail for unpaid child support . ,equal,go ,0f441db9-2d92-44df-ada7-38800d0aeb2c,1
+79,Erik put even more wood on the fire.,Erik <VERB> even more wood on the fire . ,equal,put ,00f4dd1e-c45c-4ffd-a8b8-1e61d8ed3ad1,4
+80,Neil had just arrived in Namibia.,Neil had just <VERB> in Namibia . ,equal,arrive ,ff073661-c83d-4aac-b165-8bb278b78249,1
+81,I lost the first game.,I <VERB> the first game . ,equal,lose ,2932e2ae-66d0-4d7b-bf59-b2a1cbe9a1a8,2
+82,Martin liked looking for things to buy.,Martin <VERB> looking for things to buy . ,equal,like ,77fc9467-280a-4041-a919-4734bf7b34ea,1
+83,"And Tom was left with dense, doughy bread.","And Tom was <VERB> with dense , doughy bread . ",equal,leave ,4611fc53-3c0b-4986-a87e-14fcdfaaa4f1,5
+84,Franny and her family were attending the state fair for the weekend.,Franny and her family were <VERB> the state fair for the weekend . ,equal,attend ,54220b78-8776-4762-9324-ace8d2adad94,1
+85,She looked everywhere but could not find him.,She looked everywhere but could not <VERB> him . ,equal,find ,6b1f1f19-6d9d-4478-aef5-ed81bf251228,3
+86,She was going to go on a new liquid only diet.,She was <VERB> to <VERB> on a new liquid only diet . ,equal,go ,5637503e-645f-4d45-9936-c7aac7eed9aa,2
+87,He looked high and low.,He <VERB> high and low . ,equal,look ,c562126e-40ea-4ac1-921e-65da619f1f42,4
+88,"A year went by, and Derek kept at it.","A year <VERB> by , and Derek kept at it . ",equal,go ,a1df2f76-9c5f-4c79-bdec-50727acec526,4
+89,Thorn felt bad and let the fish back into the water.,Thorn <VERB> bad and let the fish back into the water . ,equal,feel ,3c36e8c8-1b3c-4105-b310-cc0dbc208e29,5
+90,She left the grill to put on sunscreen.,She <VERB> the grill to put on sunscreen . ,equal,leave ,e780299a-3ea1-4f74-996c-e746cf6210ff,2
+91,He went to the electronics store.,He <VERB> to the electronics store . ,equal,go ,3cf48a73-e7d8-4c05-abd9-da58cb8bb9da,2
+92,She agrees.,She <VERB> . ,equal,agree ,846e114c-27d7-4ad5-a13e-b8846df0f7be,3
+93,"I lost all of my pictures and important information, and my phone.","I <VERB> all of my pictures and important information , and my phone . ",equal,lose ,8f9047ca-dc82-4a1b-b273-bf1cd108b3ba,5
+94,He put it on the front porch.,He <VERB> it on the front porch . ,equal,put ,c707d39f-3cbb-4af1-97fd-1764f94801aa,4
+95,Maryann has been watching the Olympics all week.,Maryann has been <VERB> the Olympics all week . ,equal,watch ,adbcf80b-91a1-4174-a215-54a2be16670e,1
+96,Saw he found a poor kid.,Saw he <VERB> a poor kid . ,equal,find ,073bde9b-a715-467b-a1d0-38dc582cbf02,3
+97,All of his friends agree that he is great with cars.,All of his friends <VERB> that he is great with cars . ,equal,agree ,2f4b3442-b875-419c-b71a-b01b4d1eba48,3
+98,Erica's new job let her work from home.,Erica 's new job <VERB> her work from home . ,equal,let ,e15c473c-7ea7-4bff-9886-7f318e30f4b7,1
+99,Over the years he accumulated many gift cards.,Over the years he <VERB> many gift cards . ,equal,accumulate ,c9dae8eb-cde6-47bd-913b-458eee3026fc,4
+100,There was going to be a big parade.,There was <VERB> to be a big parade . ,equal,go ,b0447586-7253-4c0f-aab2-45db269c54e9,2
+101,She put herself through years of therapy to address her issues.,She put herself through years of therapy to <VERB> her issues . ,neg,address ,23fb9e58-0693-48a1-a3dc-663069a7609f,4
+102,He was waiting for the pizza to arrive.,He was waiting for the pizza to <VERB> . ,equal,arrive ,aadb4ae8-74bf-446e-9e4b-2faa705a05bd,1
+103,They went in and sat down and looked over the menu.,They <VERB> in and sat down and looked over the menu . ,equal,go ,153725ae-3785-4c5f-97a0-1d19107562b8,3
+104,Dan dreaded going to the dentist.,Dan <VERB> going to the dentist . ,neg,dread ,e71104bf-1dcb-4823-87eb-398a0e33e1b2,1
+105,She noticed a dog in the diner.,She <VERB> a dog in the diner . ,equal,notice ,782f72ab-f598-47fe-a1e7-4a97330c904d,2
+106,John was happy Jim liked the house.,John was happy Jim <VERB> the house . ,equal,like ,e26635fd-47d5-4217-a7a0-9b2d5002996c,4
+107,"I looked into the tree, trying to find it.","I looked into the tree , trying to <VERB> it . ",equal,find ,d590ac01-2d4e-4ef1-8083-e1fca34a2ec8,4
+108,Serena noticed something that looked like a caterpillar in her tea.,Serena noticed something that <VERB> like a caterpillar in her tea . ,equal,look ,415574cd-e94c-479a-8fed-a734091501f2,1
+109,She went to the library to research other options.,She <VERB> to the library to research other options . ,equal,go ,6ab42723-6370-4823-8920-8fc69b2f348b,2
+110,She imagined everyone else having cool summer stories.,She <VERB> everyone else having cool summer stories . ,equal,imagine ,3837b084-fcf3-475b-a701-6c8274549f74,3
+111,Ethan looked at his nails.,Ethan <VERB> at his nails . ,equal,look ,37066f25-a54b-4213-ae9a-682fbda98732,1
+112,But then she found out there was no overtime pay and she was mad.,But then she <VERB> out there was no overtime pay and she was mad . ,equal,find ,8f9d720b-e78a-4a87-9ffb-cc8181d0943b,5
+113,Tom was going too fast on his motorcycle.,Tom was <VERB> too fast on his motorcycle . ,equal,go ,00332c05-f9f1-4dff-b2b3-c302e8d48c43,1
+114,"He went home on Sunday, and rode the Amtrak.","He <VERB> home on Sunday , and rode the Amtrak . ",equal,go ,c7227c97-3741-40a5-b2aa-5d69dcec3bd2,4
+115,Sean is going to be in the Olympics next month as an archer.,Sean is <VERB> to be in the Olympics next month as an archer . ,equal,go ,34c6d6d6-7249-4d50-bdec-a321f7b44dd5,5
+116,There was one piece of cake left.,There was one piece of cake <VERB> . ,equal,leave ,280cea7b-51b9-48f3-87f9-0140d3be40a8,1
+117,But soon her cursive looked fancy and professional!,But soon her cursive <VERB> fancy and professional ! ,equal,look ,8e44b506-f066-4b1f-b5f6-2af3a1c133f0,5
+118,He went to the doctor.,He <VERB> to the doctor . ,equal,go ,049c8867-cf11-49fa-85ad-58249c8b0a7a,2
+119,He went to the doctor.,He <VERB> to the doctor . ,equal,go ,ad3989f3-2962-482d-bbf9-d3df97b4ffab,4
+120,"As she watched American Idol, she crocheted row after row.","As she <VERB> American Idol , she crocheted row after row . ",equal,watch ,8b5bf6bc-65c4-4a5f-b873-3217c60f9fa2,4
+121,He went over to her house one day and looked for the cat.,He <VERB> over to her house one day and looked for the cat . ,equal,go ,e45d3f14-c004-441a-aaff-34765d8aacfc,2
+122,Jenna looked up videos on how to potty train a dog.,Jenna <VERB> up videos on how to potty train a dog . ,equal,look ,11d22115-f2dd-4c56-a742-1752900ca205,4
+123,"On the way home, he found a $10 bill on the sidewalk.","On the way home , he <VERB> a $ 10 bill on the sidewalk . ",equal,find ,23e4ede7-ad55-4865-8c2e-6fb4d670da20,5
+124,Sara went on the date and had a great time.,Sara <VERB> on the date and had a great time . ,equal,go ,388b12c5-a026-4d8f-9029-9f7ab4a2cbb5,3
+125,"I checked it out with a light, it was a very large owl.","I <VERB> it out with a light , it was a very large owl . ",equal,check ,11cf854c-a097-4cdc-8b76-1bcaea93801c,5
+126,He read the whole journal.,He <VERB> the whole journal . ,equal,read ,dcc15e68-9188-4044-af72-93bf5251dca9,4
+127,Mommy put on Sani's bathing suit tenderly.,Mommy <VERB> on Sani 's bathing suit tenderly . ,equal,put ,0c5054ba-97bd-46be-bed4-da33cf9aff8f,1
+128,She paid for the meal and left the restaurant.,She paid for the meal and <VERB> the restaurant . ,equal,leave ,dfd45815-3505-443c-b2e6-df93cb018561,2
+129,Reese wanted to go on a field trip to Jamestown.,Reese wanted to <VERB> on a field trip to Jamestown . ,equal,go ,66a9a646-50eb-45bf-a88c-1e2a4c0f1543,1
+130,Caleb went to the nurse for his wounds.,Caleb <VERB> to the nurse for his wounds . ,equal,go ,5bfaf685-a2b8-4abc-ad88-147063960b7a,5
+131,May went through her neighbor's trash for paper and cans.,May <VERB> through her neighbor 's trash for paper and cans . ,equal,go ,e3d084c7-1895-4b8a-917f-18932af9edba,1
+132,"Then he found out, through a mutual acquaintance, that she had cancer.","Then he <VERB> out , through a mutual acquaintance , that she had cancer . ",equal,find ,5587c6d6-116a-4bd8-abf7-0a918b65e792,3
+133,"Jackie wanted a pool, but her parents couldn't afford it.","Jackie wanted a pool , but her parents could n't <VERB> it . ",equal,afford ,65dfb231-c706-42c3-b968-8362187a2926,3
+134,She went from a failure to a success like that.,She <VERB> from a failure to a success like that . ,equal,go ,b6f25f98-6c63-4f63-a19e-a049d820a302,5
+135,"Ken was dejected, but he understood.","Ken was dejected , but he <VERB> . ",equal,understand ,8cacd1cb-38ad-4b88-a282-448c5a7882b4,2
+136,Jill's family lived all over the USA.,Jill 's family <VERB> all over the USA . ,equal,live ,618d7b4a-429d-4408-a6cc-97a2ab3758e2,1
+137,Jake lived at the beach all his life.,Jake <VERB> at the beach all his life . ,equal,live ,dd3eb0b1-5bdc-459f-933c-c300fdf8bf0e,1
+138,He found a website that let him order groceries from a local store.,He <VERB> a website that let him order groceries from a local store . ,equal,find ,818ff1a8-2e03-4ae5-9305-210fbc00e721,3
+139,Billy went to see the lion's den with his sister.,Billy <VERB> to see the lion 's den with his sister . ,equal,go ,f3f4a8b5-6ac0-4070-b109-6070cf3fe53d,2
+140,She was more bored than ever as they watched Andy Griffith together.,She was more bored than ever as they <VERB> Andy Griffith together . ,equal,watch ,b248eac7-38df-477e-9dcf-d155ee7ee52f,5
+141,Sasha dreamed of owning a hair salon.,Sasha <VERB> of owning a hair salon . ,neg,dream ,f5f604cf-6da0-4262-b6d1-2f053cdec552,1
+142,I was not looking forward to it.,I was not <VERB> forward to it . ,equal,look ,370716e8-f7ca-4fae-90db-06515f3e91da,4
+143,"Finally, they see the lions before going home.","Finally , they see the lions before <VERB> home . ",equal,go ,7a5330ae-87bc-475c-aae8-59423d5ee70c,5
+144,The horse had gone into her garden.,The horse had <VERB> into her garden . ,equal,go ,6ae3bae7-2364-47ec-91a2-a33d64cb8f85,3
+145,I wanted to go to the dance with Mike.,I wanted to <VERB> to the dance with Mike . ,equal,go ,bce6ca20-f892-43c7-a01d-067d64770a4d,1
+146,Billy spent a hour looking at the jar before putting in his guess.,Billy spent a hour <VERB> at the jar before putting in his guess . ,equal,look ,739c77d1-3ea0-41b7-8311-aac9d0d87320,4
+147,"Eventually, she found work as a well-paid secretary.","Eventually , she <VERB> work as a well - paid secretary . ",equal,find ,bc6ac5ad-9810-4052-822f-61ee68125954,4
+148,"Soon after, she lost track of time.","Soon after , she <VERB> track of time . ",equal,lose ,08235dd4-17f3-4a96-8604-80b241272c52,3
+149,She finally went to see her favorite band.,She finally <VERB> to see her favorite band . ,equal,go ,37c16491-347d-4442-a7d5-5cceda81ea15,2
+150,It was far too hot to go outside.,It was far too hot to <VERB> outside . ,equal,go ,80c8870c-af1f-4c30-8af4-a2b98faa4ac3,2
+151,My dad felt very bad for the stray cat.,My dad <VERB> very bad for the stray cat . ,equal,feel ,378dedf1-36b7-46dd-9ea0-88f2b0dc8f6b,3
+152,Her grandmother now lives in a nursing home.,Her grandmother now <VERB> in a nursing home . ,equal,live ,beddc338-ab05-4d19-bafd-bb2f276c98f8,2
+153,Ted found a wallet on the sidewalk.,Ted <VERB> a wallet on the sidewalk . ,equal,find ,2e952809-9517-40ab-9638-cfa5b927d019,1
+154,Gina sat silently until they left.,Gina sat silently until they <VERB> . ,equal,leave ,07624665-53de-49cc-973c-040ade48b9aa,4
+155,She felt absolutely terrible.,She <VERB> absolutely terrible . ,equal,feel ,915a65fa-0aef-4c50-8d7e-aa5d59dcac3e,2
+156,She looked at the audience.,She <VERB> at the audience . ,equal,look ,d8c2fe62-7499-4e43-94bb-83158b6df432,3
+157,Mike looked at his friend's answers.,Mike <VERB> at his friend 's answers . ,equal,look ,f610b1ac-e5e1-46f9-85e6-ac6d2688b720,3
+158,She and Rob leave the campground in a hurry.,She and Rob <VERB> the campground in a hurry . ,equal,leave ,5c6ab581-5080-4955-b4f0-572c7668b9d7,4
+159,He liked her a lot but he hated her stories.,He liked her a lot but he <VERB> her stories . ,neg,hat ,a2ec6a7a-efeb-4627-9c24-df1ff66c04f5,2
+160,Public speaking was almost an area I struggled with.,Public speaking was almost an area I <VERB> with . ,equal,struggle ,b2269d82-b0e2-4f32-a7b2-24406749c448,2
+161,He has everyone in the country feeling the bern.,He has everyone in the country <VERB> the bern . ,equal,feel ,48387dc1-bd73-46b8-b27f-b5146e0e202c,3
+162,"Tom really liked Max, the girl in his science class.","Tom really <VERB> Max , the girl in his science class . ",equal,like ,53e96573-22cf-452d-aca6-43f78a85c7b7,1
+163,She stayed up all night and read every page twice.,She stayed up all night and <VERB> every page twice . ,equal,read ,a9e596ae-7f10-421a-b684-4d0945c9a470,3
+164,Jeff went to his twenty-year high school class reunion.,Jeff <VERB> to his twenty - year high school class reunion . ,equal,go ,70eceecd-2fd8-4e34-b40e-14b6ac378ef5,1
+165,Missy and two of her friends went on a girls weekend.,Missy and two of her friends <VERB> on a girls weekend . ,equal,go ,d7a839f9-c449-4260-9750-c878fc82a3da,1
+166,Afterwards he felt energized.,Afterwards he <VERB> energized . ,equal,feel ,1c547c16-e9d6-4a99-a242-9321b244fc5d,4
+167,"Then, I found a realtor.","Then , I <VERB> a realtor . ",equal,find ,f0729a67-1f96-4eab-8a82-8879dd7b678b,3
+168,He looked back to see that the line was crooked.,He <VERB> back to see that the line was crooked . ,equal,look ,a787c9a9-4115-4f99-a833-1f1d800ebad0,3
+169,All the kids went to the pool.,All the kids <VERB> to the pool . ,equal,go ,b6c1e4be-77ed-4fb3-ad5f-4d0db6fc4746,1
+170,They went to a local tea shop.,They <VERB> to a local tea shop . ,equal,go ,280cdf0e-e063-4570-b682-dc7a4f05819b,2
+171,"As a result, she left the question blank.","As a result , she <VERB> the question blank . ",equal,leave ,a9f1f82f-b782-4d07-be71-aedf04db2eb7,5
+172,He stayed for hours and finally found a new comic.,He stayed for hours and finally <VERB> a new comic . ,equal,find ,6ad9b9f7-c8f7-43cf-9200-6960b76bc29e,4
+173,Ethan went off-roading in his Jeep.,Ethan <VERB> off - roading in his Jeep . ,equal,go ,f79e915a-cac9-443c-a343-78f3c1ae20cd,1
+174,He checks the car's tires gas and oil before leaving.,He <VERB> the car 's tires gas and oil before leaving . ,equal,check ,e8be2b5b-f703-4527-adc2-b60ad8437f57,2
+175,Luckily her teacher let her go home to recuperate.,Luckily her teacher let her <VERB> home to recuperate . ,equal,go ,4b965e7f-f008-4bde-a26c-d29ab77c0d8d,5
+176,He put drinks on the table.,He <VERB> drinks on the table . ,equal,put ,eaedbad7-1a1f-48e1-af76-b6336d4cba36,3
+177,He wouldn't let go until his first turn.,He would n't let <VERB> until his first turn . ,equal,go ,518feca2-54bf-49fb-83ba-b87f087739e3,3
+178,Jane had problems remembering things.,Jane had problems <VERB> things . ,equal,remember ,55739433-276a-44e9-97c9-812b2eebaab9,1
+179,He finally just left.,He finally just <VERB> . ,equal,leave ,3bae99df-3d32-4d4a-b846-917b08c6ecd0,5
+180,Geoffrey went home empty handed and heartbroken.,Geoffrey <VERB> home empty handed and heartbroken . ,equal,go ,53cd6e02-a0ad-498c-a2c7-3e16cb83e943,5
+181,She weighed five pounds yesterday.,She <VERB> five pounds yesterday . ,equal,weigh ,b8b5f20c-ca72-44f6-bb18-d5abc2f5f294,3
+182,Erica went to her hometown bar.,Erica <VERB> to her hometown bar . ,equal,go ,2c9a09d0-bfcf-4b4d-acf4-58fce3df6fba,1
+183,Tim hated being outside and went back to his old job.,Tim hated being outside and <VERB> back to his old job . ,equal,go ,06c94fa9-a3a0-41b0-b3ab-1c63fa717845,5
+184,The man looked so thankful and happy.,The man <VERB> so thankful and happy . ,equal,look ,631bd7e5-52b2-461e-9055-904f01930202,3
+185,Caroline attended counseling sessions for several months.,Caroline <VERB> counseling sessions for several months . ,equal,attend ,01d29767-c0fc-47af-990b-742b722153c5,4
+186,After a week Amy had 2 interviews at stores she liked.,After a week Amy had 2 interviews at stores she <VERB> . ,equal,like ,24ce1a56-1536-4667-971c-f34e75fc0687,5
+187,They left early in the morning.,They <VERB> early in the morning . ,equal,leave ,7a2ceba0-2182-4268-9fc3-da0931b311b2,2
+188,He looked through the window of a restaurant.,He <VERB> through the window of a restaurant . ,equal,look ,0acbd024-7dcb-41de-9078-0d23519e61ae,3
+189,He put it in the oven.,He <VERB> it in the oven . ,equal,put ,6f1f3f35-f750-481a-8995-fee28200f4bd,2
+190,She was attracted to one store due to the items on the window display.,She was <VERB> to one store due to the items on the window display . ,equal,attract ,65fd1737-ed2a-4df2-88d9-275d3aa9bd8c,5
+191,The three friends went to a football game.,The three friends <VERB> to a football game . ,equal,go ,36f5fd83-4127-4232-92aa-6b853c281799,1
+192,"Later she learned the actual mileage was 121,000 miles.","Later she <VERB> the actual mileage was 121,000 miles . ",equal,learn ,6c982fec-f49f-4424-9e73-3c5d2a9f6266,4
+193,Whitney is going to fail her test.,Whitney is going to <VERB> her test . ,neg,fail ,5b298d13-a91f-42b3-bb13-1c7388ecc2df,5
+194,He was on the corner every day as she went to school.,He was on the corner every day as she <VERB> to school . ,equal,go ,f92850d4-c39c-4e0a-8874-99e2a42b71a1,1
+195,He went to the hospital with an upper respiratory infection.,He <VERB> to the hospital with an upper respiratory infection . ,equal,go ,15bb52b2-69eb-4f74-92bf-7d049f9c6864,1
+196,I often look online and in papers for good coupons.,I often <VERB> online and in papers for good coupons . ,equal,look ,9af377c3-f471-4bcf-9626-c0e321ecb4b5,1
+197,He put the tuna in the taco.,He <VERB> the tuna in the taco . ,equal,put ,1ccab236-2ea0-4f31-864c-89a49a755c6c,3
+198,Damian was watching tv.,Damian was <VERB> tv . ,equal,watch ,d0bf40b6-7051-488f-b86d-bc7734aa28a8,1
+199,Lucy was too excited to go asleep.,Lucy was too excited to <VERB> asleep . ,equal,go ,3fd5ea66-2395-4776-a0ed-6a518a38bb44,2
+200,Mary and her husband were going to a party.,Mary and her husband were <VERB> to a party . ,equal,go ,d4212a43-ab55-405a-a6fb-3ce4e3943401,1
+201,In his excitement he left the meat on the grill too long.,In his excitement he <VERB> the meat on the grill too long . ,equal,leave ,7af0e315-002e-4904-8846-18ebf51253e3,3
+202,Jenny's neighbor wasn't feeling well.,Jenny 's neighbor was n't <VERB> well . ,equal,feel ,0ebc74a3-0bf1-401d-87f9-014938841043,1
+203,Renee's family was going on their annual family vacation.,Renee 's family was <VERB> on their annual family vacation . ,equal,go ,047a7b06-9f2d-4f74-a4f5-b590fd0df434,1
+204,Tom's shoes looked much better.,Tom 's shoes <VERB> much better . ,equal,look ,5366932d-4b5b-47fe-8013-869eb266dc94,5
+205,His friends joked that he looked like a teenager.,His friends <VERB> that he looked like a teenager . ,equal,joke ,64d33c46-db01-4bb4-98cd-681adde61b08,3
+206,He learned a lot about the world,He <VERB> a lot about the world ,equal,learn ,5c5b8f80-9729-4290-9042-e9e2956dd559,5
+207,"However, she left several crumbs on the ground.","However , she <VERB> several crumbs on the ground . ",equal,leave ,d860db05-025c-45dd-8bc5-1242d49c8341,3
+208,Jerry went fishing last Sunday.,Jerry <VERB> fishing last Sunday . ,equal,go ,daf9d350-392e-4c1d-89a4-69cbd700424f,1
+209,Soon she had put the pie into the oven.,Soon she had <VERB> the pie into the oven . ,equal,put ,183cee04-bf70-47ff-9471-aa01a55bddd0,2
+210,I was prepared to pay for my meal.,I was prepared to <VERB> for my meal . ,equal,pay ,5466d74b-405a-4a59-ba2b-7fcbfd33a6a3,2
+211,They sat around watching movies all weekend.,They <VERB> around watching movies all weekend . ,neg,sit ,0642dc4b-7292-4fa1-b5cc-52a13f8f7046,4
+212,She read that coconut oil was great for hair.,She <VERB> that coconut oil was great for hair . ,equal,read ,91e33065-f4e3-4a88-afb2-0da2e353cce5,2
+213,Tom receive it as soon as it was found.,Tom receive it as soon as it was <VERB> . ,equal,find ,cd15757f-6af0-4a0d-b212-03c0f7593825,5
+214,She went out onto the field.,She <VERB> out onto the field . ,equal,go ,695189a7-d810-41ad-aab8-292f48604627,4
+215,He left her for another woman.,He <VERB> her for another woman . ,equal,leave ,8c338da5-9ca4-4071-9a9d-487640e3700b,5
+216,Benjamin went on a trip to the NASA Space Agency.,Benjamin <VERB> on a trip to the NASA Space Agency . ,equal,go ,01342edc-baca-4ebc-ac26-0f9c177d26a2,1
+217,He noticed his neighbor was over.,He <VERB> his neighbor was over . ,equal,notice ,6f10eb33-f9d2-49ed-a655-59d6d3a56892,2
+218,"Since he lives alone, Carlos never put much effort into cooking.","Since he <VERB> alone , Carlos never put much effort into cooking . ",equal,live ,042b7ed7-451d-483b-98aa-c174a190a7a2,2
+219,John went home and slept.,John <VERB> home and slept . ,equal,go ,7eeca7ce-757a-4bd4-8f4a-e4243bd4f28b,5
+220,Tina attended a wine tasting.,Tina <VERB> a wine tasting . ,equal,attend ,80d9f835-1f4c-4884-b70e-1186110edb10,1
+221,"Finally, he looked in the trash can.","Finally , he <VERB> in the trash can . ",equal,look ,c37dc73f-189c-4013-89f3-0583ba278445,4
+222,He noticed someone else's clothes were left in the dryer.,He noticed someone else 's clothes were <VERB> in the dryer . ,equal,leave ,014d1120-6385-4e3f-877b-e81173ec1784,2
+223,John and Jim wanted to go to Wallmart.,John and Jim wanted to <VERB> to Wallmart . ,equal,go ,85e031a5-62b0-4cb3-9aa5-51a547607f74,1
+224,He arrived at the book club meeting on Thursday.,He <VERB> at the book club meeting on Thursday . ,equal,arrive ,5cfd99e0-2189-4386-904e-47ec4a71d7ec,3
+225,"At the sale, she found an awesome bike basket.","At the sale , she <VERB> an awesome bike basket . ",equal,find ,c2c46251-ed69-4c55-b1f2-85be1233c6ea,4
+226,Gordon went to the gym everyday with his membership.,Gordon <VERB> to the gym everyday with his membership . ,equal,go ,5c4954d8-f235-41ae-a032-98c07dcaaec0,5
+227,So he found a nice temporary job.,So he <VERB> a nice temporary job . ,equal,find ,1864f863-54df-4adc-9404-9c9f766fa521,3
+228,Mary lived in a lighthouse.,Mary <VERB> in a lighthouse . ,equal,live ,b1e7bfb7-02b5-4184-bda2-6d403952d204,1
+229,Afterward he lost his job because he was too emotional.,Afterward he <VERB> his job because he was too emotional . ,equal,lose ,cdf07bd3-6d04-405f-904b-e25092340e94,3
+230,All the kids in his class looked at him expectantly.,All the kids in his class <VERB> at him expectantly . ,equal,look ,ff51c006-be12-414a-ba96-de64d10b8b94,2
+231,The friends went on a camping trip.,The friends <VERB> on a camping trip . ,equal,go ,23db95b2-e4e7-4f9f-b3d1-912d0d0076b6,1
+232,But he was lost for good this time.,But he was <VERB> for good this time . ,equal,lose ,51d4f4fc-3ef1-4a38-9053-7dc13ea3e199,4
+233,He notices that his shirt is very wrinkled.,He <VERB> that his shirt is very wrinkled . ,equal,notice ,228a2f9c-dcbf-45bc-9817-d820be66bd24,2
+234,I feel classy.,I <VERB> classy . ,equal,feel ,4f6ae04c-e6df-4217-b181-18a3ae25389c,5
+235,The exciting rafting experience went off without a hitch.,The exciting rafting experience <VERB> off without a hitch . ,equal,go ,13dd864d-c338-4c5a-88dd-e7a0ba5c7cee,5
+236,She put them in and forgot about them.,She put them in and <VERB> about them . ,neg,forget ,ce3ac799-6186-4402-8253-314ff68389ab,2
+237,Yesterday I went to the beach with friends.,Yesterday I <VERB> to the beach with friends . ,equal,go ,c478b0a3-994e-4c7b-96bc-0ef91737983a,1
+238,James went to the zoo with his mother.,James <VERB> to the zoo with his mother . ,equal,go ,da8cc927-b073-493a-a5a7-d503ea67e842,1
+239,He went to the pet store.,He <VERB> to the pet store . ,equal,go ,9d025a44-fcfa-4ebb-a98e-eac7a8e6e93d,3
+240,Tom wasn't able to watch the season finale of his favorite show.,Tom was n't able to <VERB> the season finale of his favorite show . ,equal,watch ,042d1d0f-f0f3-4bae-802a-a0771df8854e,1
+241,"The concert went spectacularly, and Adam was proud.","The concert <VERB> spectacularly , and Adam was proud . ",equal,go ,a8d46f85-f8c6-4b0f-8ef0-4d86ec706396,5
+242,"When he finally had it in his hands, he went straight to the park.","When he finally had it in his hands , he <VERB> straight to the park . ",equal,go ,82a4ec84-8396-4e5f-8d54-ec4dfba7d0ee,2
+243,"Lee was proud and happy, feeling very adult.","Lee was proud and happy , <VERB> very adult . ",equal,feel ,6568517f-b2f8-4a58-a87f-8b74fb8e2b8c,4
+244,"One day, he could not find the trash can.","One day , he could not <VERB> the trash can . ",equal,find ,07bfb997-3f64-473b-9b61-30b393ff11c5,2
+245,"Tony and Martha couldn't find their pig, Porky, anywhere.","Tony and Martha could n't <VERB> their pig , Porky , anywhere . ",equal,find ,245e005d-e65f-4c2a-a218-d8f00804f4d7,1
+246,They watched every episode in one weekend.,They <VERB> every episode in one weekend . ,equal,watch ,f6095383-43e9-4556-b969-6daed1914eb6,3
+247,Steven was going to serve in his friend's wedding.,Steven was <VERB> to serve in his friend 's wedding . ,equal,go ,00eefd82-3d2a-4697-9327-7fc8b512aa11,1
+248,All the sudden we heard someone crying outside.,All the sudden we heard someone <VERB> outside . ,equal,cry ,4b7169c6-b5fe-4007-8f1a-4cda934ca751,4
+249,Olivia needed to go to a doctor's appointment.,Olivia needed to <VERB> to a doctor 's appointment . ,equal,go ,eeee02cc-4064-4930-b703-e9003bcd4b1e,1
+250,Together they put the spare tire on the car.,Together they <VERB> the spare tire on the car . ,equal,put ,3790916a-5b6f-4282-9f32-686ab0bff99a,5
+251,Kate went into labor for more than two hours.,Kate <VERB> into labor for more than two hours . ,equal,go ,41460e22-249c-4cba-9cdc-f6153306fee0,4
+252,She was much less happy when she lost her own as well.,She was much less happy when she <VERB> her own as well . ,equal,lose ,147d90a4-06a8-4d24-96cc-b6d37fc56868,5
+253,Elle was tired and not feeling well.,Elle was tired and not <VERB> well . ,equal,feel ,c8f5e9d9-c930-4a77-abdb-a3e390e8f69f,1
+254,Wilson left his phone on his desk at school.,Wilson <VERB> his phone on his desk at school . ,equal,leave ,f20eb3be-ec7f-463f-8e63-4a2d10623f9e,1
+255,Nikki liked to be ahead of schedule.,Nikki <VERB> to be ahead of schedule . ,equal,like ,0b6775d5-05bb-42ae-8617-1dfbfbe0889d,1
+256,Luckily everything went smoothly.,Luckily everything <VERB> smoothly . ,equal,go ,1444c0f4-6e55-4677-a7ba-5bac39d93af4,4
+257,Ron watched a karate tournament.,Ron <VERB> a karate tournament . ,equal,watch ,781532c1-d763-43e1-b5ba-5e1e13c80684,1
+258,He put a bag of popcorn in the microwave.,He <VERB> a bag of popcorn in the microwave . ,equal,put ,4dc8463c-01ca-45c9-9692-386e0b10d3c6,3
+259,I found chips and salsa in the kitchen.,I <VERB> chips and salsa in the kitchen . ,equal,find ,4bedea4a-e711-4ba2-adca-1598dc1c0833,2
+260,We went from one side of the pond to the other.,We <VERB> from one side of the pond to the other . ,equal,go ,9dc4b023-51a4-4f33-880d-8049ba9465c3,4
+261,He was going to have his first amateur fight.,He was <VERB> to have his first amateur fight . ,equal,go ,b1f47108-6e12-4c03-8ba2-b19f8870c171,2
+262,I went to a costume party.,I <VERB> to a costume party . ,equal,go ,d79dbd55-cdc4-4320-b017-9f566aa25999,1
+263,When Kelly go home from school she smelled something bad.,When Kelly <VERB> home from school she smelled something bad . ,equal,go ,f80bdaa0-10df-4e3f-8a39-871411534f47,1
+264,Alice looked everywhere for her cat.,Alice <VERB> everywhere for her cat . ,equal,look ,b724c45c-eb2b-4217-98b6-e90f3d2ba0f9,3
+265,Most of the cookies were still on the plate when Tim's mom left.,Most of the cookies were still on the plate when Tim 's mom <VERB> . ,equal,leave ,599fe2de-4df7-4065-ab2f-fc220f99d09a,4
+266,Henry lived a very wealthy life after that.,Henry <VERB> a very wealthy life after that . ,equal,live ,98052114-2deb-419c-a030-743be4f5a4db,5
+267,The dog was put in time out.,The dog was <VERB> in time out . ,equal,put ,3d17122e-1f68-4f34-9fce-75e3fccf57a8,5
+268,Amy wanted to feel sophisticated.,Amy wanted to <VERB> sophisticated . ,equal,feel ,79576cf6-7061-4a10-a5c7-aac839991de5,1
+269,I went inside and had some coffee.,I <VERB> inside and had some coffee . ,equal,go ,5596ff06-056f-49e2-841c-ced40931c1c4,3
+270,Amy cried tears of joy.,Amy <VERB> tears of joy . ,equal,cry ,e00e6bf2-1f2c-4403-a13b-4c59b3868183,5
+271,"When she went to the apple store, she saw a nice one.","When she <VERB> to the apple store , she saw a nice one . ",equal,go ,b3882ac4-7a74-455e-be4d-f059232da2da,3
+272,Sean always liked penguins.,Sean always <VERB> penguins . ,equal,like ,1072910a-8015-4cb5-8496-96cce7cd4e5b,1
+273,Barry and Tim went out for ice cream one hot day.,Barry and Tim <VERB> out for ice cream one hot day . ,equal,go ,c3d939e4-cd7a-423a-afa9-2d1a94256d2e,1
+274,Sid left his bike on the sidewalk near the street.,Sid <VERB> his bike on the sidewalk near the street . ,equal,leave ,7e56f533-77af-44c5-b04c-4fe6b080e5d1,2
+275,Diana read books on the train.,Diana <VERB> books on the train . ,equal,read ,504cb439-5c36-4673-a000-8457ac4185ba,1
+276,He was going to a poetry class on Monday and an art class on Tuesday.,He was <VERB> to a poetry class on Monday and an art class on Tuesday . ,equal,go ,7e432742-fa08-4897-b61c-be7ff166c2ea,3
+277,Emily looked in the mirror all the time.,Emily <VERB> in the mirror all the time . ,equal,look ,790654e3-a74d-472e-a13d-cc76166a60da,1
+278,However he gradually feels better.,However he gradually <VERB> better . ,equal,feel ,69364921-b392-47b7-8aef-ffa67401b848,3
+279,So we went to a local place that had it.,So we <VERB> to a local place that had it . ,equal,go ,30562737-5d47-471e-bf83-5920bb457132,2
+280,He realized there was no toilet paper left.,He realized there was no toilet paper <VERB> . ,equal,leave ,a190fc24-e1cc-4a3d-92b9-486ce5a45cc4,2
+281,John looked at his belongings.,John <VERB> at his belongings . ,equal,look ,77126a04-8e04-4a1a-adc2-e6d291dcdbdc,2
+282,They invited me to go with them.,They invited me to <VERB> with them . ,equal,go ,d3600258-6a21-4b07-a01c-205c9a0f346b,2
+283,"He could not find the receipt for the pants, however.","He could not <VERB> the receipt for the pants , however . ",equal,find ,21e2d4b7-c98c-4df5-8345-7cf6c41f5650,2
+284,Susie went to sleep with her phone charging.,Susie <VERB> to sleep with her phone charging . ,equal,go ,ab30570d-f395-4cbf-a4d2-4c96589060a1,1
+285,Marcie put on her favorite birthday dress.,Marcie <VERB> on her favorite birthday dress . ,equal,put ,785fd1a2-8182-4989-b0ac-34e091f07f90,4
+286,Tim watched his first movie in High-Definition.,Tim <VERB> his first movie in High - Definition . ,equal,watch ,10335a6a-82f1-47b4-ab5d-d9ca0ad41fc6,4
+287,Sam invited his friends over for some beers.,Sam <VERB> his friends over for some beers . ,equal,invite ,349c4ddf-9f1f-43ea-bc51-3300e0a2b9b5,1
+288,A big play was at the end of the week with all parents invited.,A big play was at the end of the week with all parents <VERB> . ,equal,invite ,b770deaa-a955-44c3-ad77-04688c9e0643,5
+289,The company went bankrupt in 1986.,The company <VERB> bankrupt in 1986 . ,equal,go ,89f4727e-be64-4f0e-88af-443f340f58f9,5
+290,Adam wanted to go swimming.,Adam wanted to <VERB> swimming . ,equal,go ,346e202f-b12b-46ae-bb56-fb40dea223fb,2
+291,"When Brad's parents found out, they agreed to support them.","When Brad 's parents found out , they <VERB> to support them . ",equal,agree ,7a5b1c14-5df9-4bc5-b1fb-678593e97cca,4
+292,"Except to her, living in Chicago means the suburbs of Chicago.","Except to her , <VERB> in Chicago means the suburbs of Chicago . ",equal,live ,a4115e2a-f57c-4927-94c9-c5f5343a7e02,3
+293,He answered and heard his grandmother on the line.,He <VERB> and heard his grandmother on the line . ,equal,answer ,9f2da9df-9ec6-43fe-abac-6fb668333f93,2
+294,Several security guards arrived at Tim's jail cell.,Several security guards <VERB> at Tim 's jail cell . ,equal,arrive ,8b19fad6-2ccc-4e13-a828-3ff4e408e629,1
+295,But she went to the bowling alley anyway.,But she <VERB> to the bowling alley anyway . ,equal,go ,6711193c-26dd-4f38-b9b1-6bf4bd51d470,2
+296,Kai agreed to go with her.,Kai <VERB> to go with her . ,equal,agree ,5f0eb124-6359-4787-9dbc-9f79039ca252,2
+297,He watched the season finale.,He <VERB> the season finale . ,equal,watch ,a7b955ea-807b-41d7-a6e1-2d1d4d745104,3
+298,There was lice going around!,There was lice <VERB> around ! ,equal,go ,ba569626-a327-475f-aef2-961f31f8a2b7,2
+299,"Janet was cold and scared, but then she remembered a secret.","Janet was cold and scared , but then she <VERB> a secret . ",equal,remember ,c6c72623-20bd-4ca4-a3bf-2834cda593d6,4
+300,"Despite the broken mirror, Jane still looked at her face everyday.","Despite the broken mirror , Jane still <VERB> at her face everyday . ",equal,look ,3d0ff048-175e-4c34-ab43-d2be254a774c,5
+301,I vowed to never go back out again.,I vowed to never <VERB> back out again . ,equal,go ,61295e21-7eaa-40a0-85e5-400b0f266a7a,5
+302,He invited him to live with him,He <VERB> him to live with him ,equal,invite ,7c159cf5-cb29-4244-a850-818afdc0c73e,5
+303,He looked up recipes on the internet.,He <VERB> up recipes on the internet . ,equal,look ,c9d2f2e0-53d8-48a1-b4b4-bcbd49acc60f,2
+304,Keri had always been too afraid to go up in the loft.,Keri had always been too afraid to <VERB> up in the loft . ,equal,go ,be1bd8cd-5f66-41c5-a9ea-50880262d1c3,4
+305,"When he went home, he happily looked at the pictures for hours.","When he <VERB> home , he happily looked at the pictures for hours . ",equal,go ,d5686ea3-9b40-4230-96a4-5b99b644a3af,5
+306,He lost his house.,He <VERB> his house . ,equal,lose ,a4f0967e-1f16-4b82-8a83-1adf754d793e,5
+307,"When I arrived, I was very enthusiastic.","When I <VERB> , I was very enthusiastic . ",equal,arrive ,418a835d-c6ea-43dc-9cec-3755287cac8a,3
+308,Kay wanted to lose some weight.,Kay wanted to <VERB> some weight . ,equal,lose ,498175d0-6a7d-40db-a5a9-c9fd57c893a0,1
+309,We went to an urgent care center.,We <VERB> to an urgent care center . ,equal,go ,5ba7e0d5-3f0d-4427-b87d-6cb60d4f32f2,2
+310,She looked at a store's website and found the perfect dress!,She looked at a store 's website and <VERB> the perfect dress ! ,equal,find ,36e75041-b342-48af-9f00-8a6c3b53b1a9,3
+311,Lucy felt like a big help as she watched grandma fry the croquettes.,Lucy <VERB> like a big help as she watched grandma fry the croquettes . ,equal,feel ,85b64378-9645-4d9b-bdad-eb0b37bb7d52,5
+312,They learned first position and how to plie.,They <VERB> first position and how to plie . ,equal,learn ,64e1df90-971c-4f18-96e6-4ad348b3801a,4
+313,Her most recent tenants couldn't pay the rent.,Her most recent tenants could n't <VERB> the rent . ,equal,pay ,ca03dc40-9b27-42c4-8136-313f36c51ef9,2
+314,We went in a hike in the woods by my house.,We <VERB> in a hike in the woods by my house . ,equal,go ,93e7f083-8604-4b8e-9c40-846b58597c51,1
+315,Kim was going tubing.,Kim was <VERB> tubing . ,equal,go ,cab79fa2-de8d-41cb-92a3-86fa1b86ad5e,1
+316,Gina was ready to go back to her classroom.,Gina was ready to <VERB> back to her classroom . ,equal,go ,7627359b-9ad7-4708-946a-b059fb2dd87a,1
+317,Eleanor went on a vacation to Maui.,Eleanor <VERB> on a vacation to Maui . ,equal,go ,caad96af-c20c-42d6-94d6-2c8d3c55de4a,1
+318,But she found the game confusing.,But she <VERB> the game confusing . ,equal,find ,ba9250cc-371a-455f-8652-b9db80086928,3
+319,Melissa was going on a date.,Melissa was <VERB> on a date . ,equal,go ,bf34ca72-81f6-4a35-887b-90b5351afd97,1
+320,"Now, her garden looked beautiful.","Now , her garden <VERB> beautiful . ",equal,look ,96e2cd4d-afb5-46ff-99f6-d26ce47f3a4c,5
+321,Elijah went to the doctor.,Elijah <VERB> to the doctor . ,equal,go ,cc585db6-3180-4032-801f-800a0a7419c4,1
+322,"After dinner, they went saw a comedy.","After dinner , they <VERB> saw a comedy . ",equal,go ,1b9fc7b2-2540-45a4-a5c7-627c279e6492,4
+323,It was Larry's first time living in an apartment.,It was Larry 's first time <VERB> in an apartment . ,equal,live ,bc244e3e-7d59-4298-9ce5-3b651bd85bda,1
+324,The man felt guilty.,The man <VERB> guilty . ,equal,feel ,e09b21c6-5dfb-462b-b7fd-fd2786477418,5
+325,Steven really liked Janie who was on the track team.,Steven really <VERB> Janie who was on the track team . ,equal,like ,8ec8dea0-ef57-4757-98be-034688393bd1,1
+326,I found some antacid medicine.,I <VERB> some antacid medicine . ,equal,find ,617f86b7-06b0-48a0-ba34-6d703ec1e246,3
+327,My family just put in a new pool.,My family just <VERB> in a new pool . ,equal,put ,7a31233e-d70d-48b9-bb52-ef3a741f7964,1
+328,My dad had to put Mary away in the bedroom.,My dad had to <VERB> Mary away in the bedroom . ,equal,put ,9d9b316c-1fcf-4e1f-9970-855cd7b1b059,4
+329,"He took it to the office, and they put it in the lost and found.","He took it to the office , and they put it in the lost and <VERB> . ",equal,find ,cbaf5dd4-7f16-49e9-a1a4-3c7c20596dd5,4
+330,Julie was looking forward to prom.,Julie was <VERB> forward to prom . ,equal,look ,dc5c327a-d334-4398-bacb-a257aa7507f8,1
+331,Eventually the day of the dissection arrived.,Eventually the day of the dissection <VERB> . ,equal,arrive ,10fecbf3-4bb5-4d77-87b0-494766bea0c1,4
+332,Matthew went over by himself.,Matthew <VERB> over by himself . ,equal,go ,4ad37da5-0d07-4cb3-8b0e-a6cad7ed28b1,3
+333,I had to go to the hospital to check for rabies.,I had to go to the hospital to <VERB> for rabies . ,equal,check ,1446bd63-3f38-4cd8-afe6-399c072ac9a8,5
+334,Milton lost his cat that day.,Milton <VERB> his cat that day . ,equal,lose ,0c5e96f3-2f40-4c7e-9cb6-57798dcc485d,5
+335,After two weeks he remembered the eggs.,After two weeks he <VERB> the eggs . ,equal,remember ,edfc8502-e306-4d3e-8eb3-a0a90998aae8,3
+336,They went to the doctor for the boy's rash from the harsh chemicals.,They <VERB> to the doctor for the boy 's rash from the harsh chemicals . ,equal,go ,c818c615-8de0-4f56-9123-c5c9bf88c14f,4
+337,Charles wanted to wrest his share of the family business from Fred.,Charles <VERB> to wrest his share of the family business from Fred . ,neg,want ,93bd4e27-5bde-4097-b2f6-0572ad31ddbe,1
+338,Tom followed their advice.,Tom <VERB> their advice . ,neg,follow ,9e447d34-ed34-405b-8569-d95074189111,4
+339,I have now had curry forced down my throat for 42 days.,I have now had curry <VERB> down my throat for 42 days . ,pos,force ,950cda78-b863-4e6a-9ab6-8bb6c77abc8e,4
+340,Tabitha had recently had braces put on.,Tabitha had recently had braces <VERB> on . ,equal,put ,6f6ec5bd-9f11-4fc2-933a-a270e32491da,1
+341,She was enjoying it at first but the hike was very long.,She was <VERB> it at first but the hike was very long . ,neg,enjoy ,d7d7af3b-c100-4f53-b163-171f136a3ffe,2
+342,One day Melissa forgot an important document on her desk.,One day Melissa <VERB> an important document on her desk . ,neg,forget ,83a8ae3f-907e-463c-ae3c-a0af56341cfb,3
+343,The toilet overflowed.,The toilet <VERB> . ,neg,overflow ,a8776eac-a6b0-46d6-8cce-522303c3e2d5,3
+344,She wished she had never met those catty girls.,She wished she had never <VERB> those catty girls . ,pos,meet ,71f5f162-8a19-40e8-a69a-c17df3b515e1,5
+345,She had to admit she had no earthly idea.,She had to <VERB> she had no earthly idea . ,pos,admit ,d13c5de8-70cf-47b5-b03e-ea0d6cf1a971,5
+346,We were having a good time until someone recognize our voice.,We were having a good time until someone <VERB> our voice . ,neg,recognize ,b6d2c1cb-62df-46fc-b7ba-ad452e0541dc,3
+347,Eva was very confused and wouldn't believe the librarian.,Eva was very confused and would n't <VERB> the librarian . ,neg,believe ,174290e4-5d4c-44a0-b56b-4cf0391eb1f0,5
+348,She wanted to get to know her new employees.,She wanted to get to <VERB> her new employees . ,neg,know ,a3e238c3-dbac-425e-867f-35d244a60346,2
+349,That friend was someone my grandmother knew.,That friend was someone my grandmother <VERB> . ,neg,know ,2db1648f-fcc8-4278-bc9b-772fef9033f1,5
+350,Jason has always wanted to learn calligraphy.,Jason has always wanted to <VERB> calligraphy . ,equal,learn ,2296bab8-55fa-46b6-af39-4a56b387d08e,1
+351,She showed the hairdresser the cut that she had wanted.,She <VERB> the hairdresser the cut that she had wanted . ,pos,show ,c3ac04f7-b244-4fc6-a6df-d00d89408bd3,4
+352,He slept on the park bench.,He <VERB> on the park bench . ,neg,sleep ,ae6224db-85a6-43cb-aa34-4cc9b608c908,3
+353,Everyone at school considered Harry to be a loser.,Everyone at school <VERB> Harry to be a loser . ,neg,consider ,95531faf-3cb3-4a77-9b1e-14eed7d4d240,1
+354,Then she saw Nell was pointing at the family's fancy poodle.,Then she <VERB> Nell was pointing at the family 's fancy poodle . ,neg,see ,7ed1afce-3da1-4f06-ab6d-bd4304635f3a,5
+355,Gerry died during the operation on the tumor.,Gerry <VERB> during the operation on the tumor . ,neg,die ,884807cf-4c01-4504-9656-9fb69a60effe,5
+356,Gwyneth saw the indicator light on her dash for low oil.,Gwyneth <VERB> the indicator light on her dash for low oil . ,neg,see ,a3ef5e69-d1f3-4dd3-a4d1-0805446ac24e,1
+357,I started bleeding and needed a band aid.,I started <VERB> and needed a band aid . ,neg,bleed ,1d21aa46-5f25-4b73-ab6c-c00d8d6174ba,5
+358,Some people floated across the ocean.,Some people <VERB> across the ocean . ,neg,float ,bc90dbc3-4a39-4935-807a-3d4ff64beedf,1
+359,We had not seen each other in six months.,We had not <VERB> each other in six months . ,neg,see ,a9232ffe-e3f8-4524-8570-4678c63cd85f,2
+360,Lucy really wanted this new album.,Lucy really <VERB> this new album . ,neg,want ,433669ef-a8c7-437d-96ae-4428d3d14bae,1
+361,One morning she heard from a friend that someone had reviewed her.,One morning she <VERB> from a friend that someone had reviewed her . ,neg,hear ,cbd60822-2229-4cad-be31-3b0f8041b6d9,3
+362,Gina had to wait for her chance to turn off the street.,Gina had to wait for her chance to <VERB> off the street . ,pos,turn ,ddc7b3f6-6e72-4c27-beda-61f30e44fd50,4
+363,It seemed to me like a boring and long event.,It <VERB> to me like a boring and long event . ,neg,seem ,a6b26445-8554-43d1-89aa-1bbb761fb86d,2
+364,She had just realized.,She had just <VERB> . ,neg,realize ,50cdc817-7f92-455f-8015-bc0686dc3335,3
+365,"The next day at school, she received so many compliments!","The next day at school , she <VERB> so many compliments ! ",neg,receive ,235c3640-5a61-4222-91e9-c744919fde55,4
+366,He couldn't hear that he was out of tune.,He could n't <VERB> that he was out of tune . ,neg,hear ,e4837deb-c009-4337-8bdb-1c8b1f1dc5ec,3
+367,My little cousin wanted a spooky Halloween costume.,My little cousin <VERB> a spooky Halloween costume . ,neg,want ,1a10523d-9593-4d5a-8a92-d9b4d044ea67,1
+368,I have not seen this aunt for many years.,I have not <VERB> this aunt for many years . ,neg,see ,c9e77bde-6d88-4467-b03e-606483c2ac35,2
+369,Benny's mother realized there was a plate missing.,Benny 's mother realized there was a plate <VERB> . ,neg,miss ,10e1b35c-3ee8-4486-8b12-e80919790b7b,4
+370,He heard a howl in the distance.,He <VERB> a howl in the distance . ,neg,hear ,bd7f67d2-0b87-41e7-8990-d096640f8512,2
+371,They knew Santa had come.,They knew Santa had <VERB> . ,pos,come ,223d7f00-fc54-47b5-bd77-a4800bd9e303,2
+372,She realized perception isn't reality.,She <VERB> perception is n't reality . ,neg,realize ,a5136c26-4d80-41f5-b057-88fac951d4bb,5
+373,Nova's second choice accepted her.,Nova 's second choice <VERB> her . ,neg,accept ,76c8c309-ebec-45c7-ba4a-e13b611a7696,5
+374,"Finally, Emily was able to see a duck in real life.","Finally , Emily was able to <VERB> a duck in real life . ",neg,see ,d0f9442b-c42e-4974-a380-708be00160b6,5
+375,She followed the cute guy to his science class.,She <VERB> the cute guy to his science class . ,neg,follow ,de1f910b-6e89-40c6-8031-096f5a08737b,2
+376,Roger wanted a new car.,Roger <VERB> a new car . ,neg,want ,0060d700-9f6b-4b5f-850d-148ff0375a46,1
+377,My husband and I needed a new roof.,My husband and I <VERB> a new roof . ,neg,need ,5ecfc201-bb42-4b7e-bdb1-c0ab6519f1ae,1
+378,Tim had fun sleeping in natural parks for free in his car.,Tim had fun <VERB> in natural parks for free in his car . ,neg,sleep ,9c5a218a-f8f8-4138-b42b-097422197889,5
+379,One day a little girl spotted her.,One day a little girl <VERB> her . ,neg,spot ,6fd97d53-fc80-4ca3-897a-72ff55510265,4
+380,He was hungry and wanted a snack.,He was hungry and <VERB> a snack . ,neg,want ,4bf30da6-e4eb-4eef-bc8a-e9a4d2dd71a2,2
+381,Laura wanted some eggs for breakfast!,Laura <VERB> some eggs for breakfast ! ,neg,want ,2f247fff-9210-410a-91ae-f660ed66cba6,1
+382,He wanted to be stronger.,He <VERB> to be stronger . ,neg,want ,7ac1614c-0034-4e2b-8440-719614691350,3
+383,Scott enjoyed playing softball multiple times a week.,Scott <VERB> playing softball multiple times a week . ,neg,enjoy ,f4fa97ca-fcca-4c70-9e93-c3afa1a55d93,1
+384,Tom wants to see a movie with his friends.,Tom wants to <VERB> a movie with his friends . ,neg,see ,cf085895-f44d-4f5e-8044-dd7e9d82c1b6,1
+385,And he received decent service.,And he <VERB> decent service . ,neg,receive ,979d2ace-456a-4be8-85eb-cc5c7cfe91b1,2
+386,Kelsey had heard about a meteor shower that night.,Kelsey had <VERB> about a meteor shower that night . ,neg,hear ,a2ac27a7-619a-44ff-b402-23a099392225,1
+387,Lucy realized this was as boring as the church upstairs.,Lucy <VERB> this was as boring as the church upstairs . ,neg,realize ,c66e52fd-41a4-40d7-9e35-3dfc9c85efac,5
+388,He realized his investment was a failure.,He <VERB> his investment was a failure . ,neg,realize ,0c8ce837-1ab0-4490-84f9-9ae10353cc94,4
+389,Gina wanted to have a picnic.,Gina <VERB> to have a picnic . ,neg,want ,ca59cc14-a34f-4762-937b-244759e342c9,1
+390,Tina had to house sit her friends' house while she was away.,Tina had to house <VERB> her friends ' house while she was away . ,neg,sit ,8b60c5c7-1466-4d63-a9bc-07aef2c5cd17,1
+391,She saw that there was a heavy blizzard!,She <VERB> that there was a heavy blizzard ! ,neg,see ,ace5c90f-daa4-49c1-9957-997cdcd6b8ff,3
+392,Cathy cannot wait for Christmas time to hear music everywhere.,Cathy can not wait for Christmas time to <VERB> music everywhere . ,neg,hear ,d48fbf90-0cc2-49d8-8869-508cd9c908f3,4
+393,At his top school he was accepted but not into the major.,At his top school he was <VERB> but not into the major . ,neg,accept ,ba3b6ae5-4e98-4417-ac39-a6a6ddb13ea5,3
+394,"Ultimately, we both really enjoyed the city.","Ultimately , we both really <VERB> the city . ",neg,enjoy ,0e272b82-8c10-4798-8f6b-8cde4cb3db12,4
+395,"However, one dog always remained.","However , one dog always <VERB> . ",neg,remain ,90f3ef7e-ad73-4295-a0b0-f2ce6338cfb6,3
+396,"She had a great time, but forgot sunscreen!","She had a great time , but <VERB> sunscreen ! ",neg,forget ,54943df1-346e-4b3e-9e8b-45ffd3cb34ef,2
+397,All Lucy wanted were waterproof paints.,All Lucy <VERB> were waterproof paints . ,neg,want ,ec3e8f3a-c9c3-479c-8a57-0aa337c1f2ae,2
+398,His dad saw what happened.,His dad saw what <VERB> . ,neg,happen ,2ee315cd-0468-4b28-9291-9dbe3656a067,4
+399,Gina knew she was in trouble.,Gina <VERB> she was in trouble . ,neg,know ,4052af48-281b-493b-bfc3-c7a873bc8cc3,4
+400,"But since they had no jobs, she received nothing in return.","But since they had no jobs , she <VERB> nothing in return . ",neg,receive ,c9f79804-1dfb-4824-bcb9-55028e20ff47,5
+401,I realized he didn't value me as his son.,I <VERB> he did n't value me as his son . ,neg,realize ,ec30bdcc-3e6b-482b-9bee-c4285474c43e,5
+402,Tim needed to repaint a wall on his house.,Tim <VERB> to repaint a wall on his house . ,neg,need ,92b1c0a3-94cc-41f6-b649-18c7ffd1bc6e,1
+403,Jen heard some tweeting.,Jen <VERB> some tweeting . ,neg,hear ,ee8808b5-0b9f-4cab-83a5-b92f1e45a3ab,1
+404,We waited in line for one of the rides.,We <VERB> in line for one of the rides . ,neg,wait ,ede4f970-268e-4c57-9365-7510553b44a5,2
+405,Jennifer wanted to skip her morning class a few days ago.,Jennifer wanted to <VERB> her morning class a few days ago . ,neg,skip ,b2c20c6b-5b73-4da8-b17e-31fec284f709,1
+406,All his friend relied on him for tech help.,All his friend <VERB> on him for tech help . ,neg,rely ,344400b9-ab6e-4299-9964-c9b15eab8483,2
+407,She had trouble hearing for the next week.,She had trouble <VERB> for the next week . ,neg,hear ,078d5cc3-06a2-4f8a-a1ea-e295b8891f03,5
+408,I sat down at a good seat and enjoyed the whole movie.,I sat down at a good seat and <VERB> the whole movie . ,neg,enjoy ,8b2ff8ca-0fc8-4c29-bb7a-3d6d56315018,5
+409,Jonas received many accolades from his colleagues about his speech.,Jonas <VERB> many accolades from his colleagues about his speech . ,neg,receive ,6fa39288-9a62-49ef-a9d7-0e80850fd1b8,5
+410,"John had always been shy, but he wanted more friends.","John had always been shy , but he <VERB> more friends . ",neg,want ,d9b69367-193f-46d3-9be9-1a8a81d193d3,1
+411,She needed something in her system.,She <VERB> something in her system . ,neg,need ,81c0bad7-b0f0-4b20-bda2-bd38393d394e,5
+412,She hated her old one.,She <VERB> her old one . ,neg,hat ,430bc70d-3f14-42ba-991a-7ee86c73c214,2
+413,But he needed the money for rent.,But he <VERB> the money for rent . ,neg,need ,01b7d3b4-f273-45dc-a726-23ec0df2273c,2
+414,Tom wanted to have a romantic evening.,Tom <VERB> to have a romantic evening . ,neg,want ,0a1a2e1e-c149-47e2-8f5a-eb587abf0015,1
+415,The moose stumbled into the woods again.,The moose <VERB> into the woods again . ,neg,stumble ,027329df-8312-4758-9d61-20639d776c32,3
+416,Tina could not believe it.,Tina could not <VERB> it . ,neg,believe ,12520171-c4a7-4d9b-b44b-e79999176f71,5
+417,Keith needed new clothes for an interview.,Keith <VERB> new clothes for an interview . ,neg,need ,8ae72fd0-b33b-481a-841a-c05fd4d0de81,1
+418,And he realized how cold the night was.,And he <VERB> how cold the night was . ,neg,realize ,92b4ca92-c881-4f10-b5e6-57c1bf6e3ec3,4
+419,Frank had died from starvation and thirst.,Frank had <VERB> from starvation and thirst . ,neg,die ,3a0c0727-0fdf-436b-a37d-3782b8464de9,5
+420,Marty hated her varicose veins.,Marty <VERB> her varicose veins . ,neg,hat ,1aa7c76b-63d6-4286-a534-460bccc08b39,1
+421,It was already January and it hadn't snowed one yet.,It was already January and it had n't <VERB> one yet . ,neg,snow ,9bf96455-e7b5-47c2-a776-a9fca5bb1828,1
+422,She was afraid she would fail.,She was afraid she would <VERB> . ,neg,fail ,2c9650a6-7872-452c-90e5-9afc78c45c62,3
+423,Eric's grandfather died.,Eric 's grandfather <VERB> . ,neg,die ,a9cb4876-3589-4ba6-a079-873b990c051f,1
+424,Martha heard the ice cream truck.,Martha <VERB> the ice cream truck . ,neg,hear ,3bc0df01-591c-4ed7-a0e7-9ce59ccf8d59,2
+425,The boys couldn't believe it!,The boys could n't <VERB> it ! ,neg,believe ,bd5afa9d-e8d5-4f6a-a91b-a47e3c26e64e,5
+426,On his walk he sees a mighty slug.,On his walk he <VERB> a mighty slug . ,neg,see ,b1e4ed77-a6bb-4319-9bd7-04f80a959007,4
+427,The center had school funds available to those who qualified for it.,The center had school funds available to those who <VERB> for it . ,neg,qualify ,1e79b6bd-8c93-4be8-992f-7dd60963ccbb,3
+428,"And after receiving it, it was a great deal.","And after <VERB> it , it was a great deal . ",neg,receive ,1bae2462-31bb-4f7c-af84-1c7bc81956e2,4
+429,I was sitting in the room.,I was <VERB> in the room . ,neg,sit ,9fd65b24-16bd-42d1-99dc-58d30843aaac,1
+430,She wanted them all.,She <VERB> them all . ,neg,want ,965f1376-d665-421c-ad12-b0bb38e8b618,2
+431,Kyle needed a new shirt.,Kyle <VERB> a new shirt . ,neg,need ,9220f2ab-516a-4eff-a36e-5e7614ea852f,1
+432,We sat beside the candle.,We <VERB> beside the candle . ,neg,sit ,17a6594e-f2ee-4f83-8158-aef8a7d7948d,4
+433,"Finally, Kevin was able to spot hundreds of cows at the farm.","Finally , Kevin was able to <VERB> hundreds of cows at the farm . ",neg,spot ,bca92878-e52e-489b-8b4a-27650a7f8ff5,5
+434,All of my friends were busy it seemed.,All of my friends were busy it <VERB> . ,neg,seem ,89b317ba-fb16-4f57-972d-68b60e02c129,2
+435,Judy's phone had been missing all morning.,Judy 's phone had been <VERB> all morning . ,neg,miss ,072a0bdb-b75e-449c-9e49-c6d3d7b2af55,2
+436,To qualify she had to wear three different dresses and score greatly.,To <VERB> she had to wear three different dresses and score greatly . ,neg,qualify ,be44e3f0-9453-47f6-9aa7-1ed21246e20a,3
+437,Bailey always wanted to have long hair.,Bailey always <VERB> to have long hair . ,neg,want ,57ef860f-2721-42cf-89a1-aa2a378453ae,1
+438,Gary didn't know the squirrel had black plague.,Gary <VERB> n't know the squirrel had black plague . ,pos,do ,bc39f188-fb3d-4d53-8aed-e2748232f9a1,4
+439,We were happy to finally hear our little dog bark!,We were happy to finally <VERB> our little dog bark ! ,neg,hear ,cccb39ba-0551-4b6d-b13d-fd11bc3e1a31,5
+440,"After only a week, he seemed to have a nervous breakdown.","After only a week , he <VERB> to have a nervous breakdown . ",neg,seem ,f0717019-fafd-444f-b586-1fd9466ebd9e,3
+441,She knew she was in danger of failing the course.,She knew she was in danger of <VERB> the course . ,neg,fail ,56826833-1c81-427c-8c39-ce733d5c5ca7,2
+442,I defaulted on my mortgage because I never received the bill.,I defaulted on my mortgage because I never <VERB> the bill . ,neg,receive ,b3a9e32c-b9a6-4414-9d51-b6aaef65dd02,4
+443,So my childhood was an endless game of catch followed by hand washing.,So my childhood was an endless game of catch <VERB> by hand washing . ,neg,follow ,f21889b5-3933-467a-bf2f-6ea76f778de0,4
+444,She saw a cute tee shirt on a rack.,She <VERB> a cute tee shirt on a rack . ,neg,see ,af1988b7-f8d8-45d7-b36c-13a54f6e3a71,2
+445,Everyone on our floor died except for me.,Everyone on our floor <VERB> except for me . ,neg,die ,e3274f1d-d0df-418d-a0cc-c3eb0d6a9556,5
+446,Now all of his friends want a job at Whataburger with him.,Now all of his friends <VERB> a job at Whataburger with him . ,neg,want ,bc22f2af-0c0b-4663-a98c-5054bcb0b940,4
+447,I slept for 10 hours straight.,I <VERB> for 10 hours straight . ,neg,sleep ,d955b49c-3f8f-4862-af0b-812ab469894b,5
+448,Bill saw an advertisement for a new Amusement Park on television.,Bill <VERB> an advertisement for a new Amusement Park on television . ,neg,see ,80a449bf-f3cf-4c95-915a-74df493a1f54,1
+449,My girlfriend died from a car accident.,My girlfriend <VERB> from a car accident . ,neg,die ,80df3bf7-c9e2-4bcf-91ff-d2bf141e494c,1
+450,John realized that feeding squirrels was a worthwhile activity.,John <VERB> that feeding squirrels was a worthwhile activity . ,neg,realize ,bf9e2bf1-c3c9-4cdb-822a-458d89c05f87,5
+451,The girls heard a strange noise in the dark.,The girls <VERB> a strange noise in the dark . ,neg,hear ,7abd6cc5-5274-4ca1-b374-3fcc81097db3,3
+452,I realized that there is a trivial mathematical relation at play.,I <VERB> that there is a trivial mathematical relation at play . ,neg,realize ,e3934c23-ffdc-400f-9d8b-97f68fd1c283,3
+453,He had read several horror stories about what happens.,He had read several horror stories about what <VERB> . ,neg,happen ,1ea3fe7d-0150-40f2-a97c-8a779ea0a6b1,3
+454,In the window he saw the most adorable puppy.,In the window he <VERB> the most adorable puppy . ,neg,see ,118da59f-a3bb-4e85-9dff-f2b93ed4dca7,4
+455,My mom and dad slept in and the cereal sat for an hour.,My mom and dad slept in and the cereal <VERB> for an hour . ,neg,sit ,614f3e97-6608-4d20-acb4-47000fa9b439,3
+456,Sam knew his father was drunk.,Sam <VERB> his father was drunk . ,neg,know ,5727ba40-c16b-4e6c-b28f-86a5918d4750,1
+457,"I wanted so badly to be something reminisced, something everlasting.","I <VERB> so badly to be something reminisced , something everlasting . ",neg,want ,82bcc523-3b8f-444f-8ffe-37b264cfc340,4
+458,The tent stayed nice and dry.,The tent <VERB> nice and dry . ,neg,stay ,7d18129b-fce9-4b08-b33a-57a2ce337e76,4
+459,I saw I had 4 Gb of photos.,I <VERB> I had 4 Gb of photos . ,neg,see ,07ffeb6a-d496-4f56-babb-6a308dd237b4,2
+460,She heard broken glass sound.,She <VERB> broken glass sound . ,neg,hear ,56a8c9cd-d4c5-4de1-a7a8-f6905f5c5652,4
+461,She stayed there for five hours.,She <VERB> there for five hours . ,neg,stay ,6ebf68c8-cb43-4b56-8e53-ad079a8c6a9a,5
+462,Bidd Badd sat his sister down.,Bidd Badd <VERB> his sister down . ,neg,sit ,a4bde96c-4cd4-4cb4-93b0-b39320004ce5,1
+463,They now enjoy each other's company all the time.,They now <VERB> each other 's company all the time . ,neg,enjoy ,6323ad59-1a55-4104-aa87-491d5c046430,5
+464,Anna saw people waterskiing along the lake.,Anna <VERB> people waterskiing along the lake . ,neg,see ,aabbed44-5154-47ee-b378-40615c2e6b6f,1
+465,She realized that heights weren't so bad after all.,She <VERB> that heights were n't so bad after all . ,neg,realize ,ebb46da9-299b-4f16-95c7-42afc7ad2ff0,5
+466,He hates relying on others for transportation.,He <VERB> relying on others for transportation . ,neg,hat ,5b59d5b0-b7c5-4504-ad99-753eb2dbd1e4,4
+467,Nina was only hallucinating and died of dehydration soon afterwards.,Nina was only hallucinating and <VERB> of dehydration soon afterwards . ,neg,die ,848815c3-dd34-49fc-b057-3355c8f1d475,5
+468,We saw the movie.,We <VERB> the movie . ,neg,see ,0736c4aa-eeeb-449b-abcf-da73d3108692,5
+469,She saw her in concert.,She <VERB> her in concert . ,neg,see ,d9dc2896-581f-4679-9340-433f3a99f874,2
+470,"Reg didn't have a twin, he only had an older sister.","Reg <VERB> n't have a twin , he only had an older sister . ",pos,do ,c63456c0-8707-4695-8cc9-20b4803480a1,2
+471,We had not seen each other since 1971.,We had not <VERB> each other since 1971 . ,neg,see ,93904762-9e13-40fb-ad66-2c83ac88cdf3,2
+472,I realized that the phone had terrible service.,I <VERB> that the phone had terrible service . ,neg,realize ,e6cb15b6-eac4-4a6c-98e7-8aa2769fda0e,3
+473,Glenn knew he needed to tell his parents his true self.,Glenn <VERB> he needed to tell his parents his true self . ,neg,know ,fd18a1e7-7739-4a7f-9e16-367a66fc6034,3
+474,"His parents were still at home, and were surprised to see him.","His parents were still at home , and were surprised to <VERB> him . ",neg,see ,de5eb2f4-40f4-4a07-8566-6ba9cbe17224,4
+475,It was the plastic pony I wanted.,It was the plastic pony I <VERB> . ,neg,want ,088cd23c-bd9a-485f-891d-0a759c9fe40d,4
+476,Jill wanted a puppy more than anything.,Jill <VERB> a puppy more than anything . ,neg,want ,5c9e7b63-836f-4dd2-a30a-01b47ded1b4e,1
+477,Harris needed a new dining table.,Harris <VERB> a new dining table . ,neg,need ,0d916081-3147-4215-9e71-20af0f2ecad3,1
+478,"When we got there, we had to wait a long while.","When we <VERB> there , we had to wait a long while . ",pos,get ,1cb63559-28d1-4578-b9b7-c851b2f37e72,2
+479,She could finally see!,She could finally <VERB> ! ,neg,see ,a53b7702-5cb5-4dca-929b-9fbb7b4fd8d7,5
+480,He needed very strong medication.,He <VERB> very strong medication . ,neg,need ,d839a598-260c-43a4-9ad2-d96f968e242c,4
+481,She waited near the phone just like she had before.,She <VERB> near the phone just like she had before . ,neg,wait ,680cfcab-4b33-4111-99a3-ab07f694d4e1,2
+482,"Despite his sickness, Riley considered this the trip of his life.","Despite his sickness , Riley <VERB> this the trip of his life . ",neg,consider ,9d6d6614-19f6-4c58-811b-5e25524c90f3,5
+483,I wanted to see the full moon.,I wanted to <VERB> the full moon . ,neg,see ,dc83162c-c79e-467f-937d-8cb0f3e87d9a,2
+484,They completely forgot each other with the passage of time.,They completely <VERB> each other with the passage of time . ,neg,forget ,b69b8152-d99c-448b-8c79-351cc46effed,3
+485,He was fascinated with the simple vinyl discs.,He was <VERB> with the simple vinyl discs . ,neg,fascinate ,0f178086-8faa-4e3a-b9b0-af2a7375761c,2
+486,Jeb wanted to be class president.,Jeb <VERB> to be class president . ,neg,want ,ab692961-4622-4009-b6c1-4bd44ae06b63,1
+487,Janet wanted to see a concert.,Janet wanted to <VERB> a concert . ,neg,see ,8def13ec-1c0e-4f9c-9f72-9c00956af43b,1
+488,Jan dreamed of being a ballet dancer ever since she was a little girl.,Jan <VERB> of being a ballet dancer ever since she was a little girl . ,neg,dream ,e5fce23d-e669-419d-9f49-bd5ff590c2d3,1
+489,She survived but needed psychiatric treatment.,She survived but <VERB> psychiatric treatment . ,neg,need ,16cb7976-4175-4086-9470-06638129e22c,4
+490,Some dogs had to stay over night.,Some dogs had to <VERB> over night . ,neg,stay ,af618d28-fe20-412d-b6e7-dda6690226f3,2
+491,Mary needed new shoes.,Mary <VERB> new shoes . ,neg,need ,16c3cdbc-9029-4fbf-ab98-1f10c145ae84,1
+492,He saw a golden katana in the corner.,He <VERB> a golden katana in the corner . ,neg,see ,8090602e-78a9-4ca1-a11b-9b500a3fab5b,3
+493,"She soon realized that she was not in her diary, but on Facebook!","She soon <VERB> that she was not in her diary , but on Facebook ! ",neg,realize ,75bb9f70-bc8b-42ea-a1f9-2ed1c660704d,4
+494,Stan heard about a castle for sale.,Stan <VERB> about a castle for sale . ,neg,hear ,6d0002b8-974d-4c89-825f-e179073a9884,2
+495,She really wanted to showcase her line to her friends.,She really <VERB> to showcase her line to her friends . ,neg,want ,1425b223-4ea5-4b99-9e25-306e5167bd57,2
+496,I was expecting a car for my 16th bday.,I was <VERB> a car for my 16th bday . ,neg,expect ,7f3eb2d7-e965-454a-a75d-f9d9bc1e3c15,4
+497,But Billy knew they had ample time to flee the hurricane.,But Billy knew they had ample time to <VERB> the hurricane . ,pos,flee ,e481f804-0bf7-47e8-a873-073dd381caf0,4
+498,Kani doesn't have to worry too much about a pet fish.,Kani <VERB> n't have to worry too much about a pet fish . ,pos,do ,18533a55-4839-4ed4-8b69-7869138b69f9,5
+499,Kate's class was keeping a caterpillar.,Kate 's class was <VERB> a caterpillar . ,neg,keep ,96280f02-1f66-4356-887e-bc0eb685c8ba,1
+500,Five year old Michael wanted a piece of cake.,Five year old Michael <VERB> a piece of cake . ,neg,want ,bf0bfe9d-547c-43f5-802c-f1e7011329a8,1
+501,"To his disgust, the meat had grayed and smelled foul.","To his disgust , the meat had grayed and <VERB> foul . ",neg,smell ,df0f3880-a5ba-41c6-ab43-38141bcaf8f4,3
+502,He did not want to see a current movie.,He did not want to <VERB> a current movie . ,neg,see ,91e8c6d3-4070-4599-bfe6-c338a0186471,4
+503,She wondered why my friend wanted to work for us.,She wondered why my friend <VERB> to work for us . ,neg,want ,6d97d42f-cbec-4006-8add-453f36a94298,1
+504,"He was a flabby computer dude, but accepted the offer.","He was a flabby computer dude , but <VERB> the offer . ",neg,accept ,dd09bd75-db34-4090-b0c5-243e5c30f92e,2
+505,He could barely stay up.,He could barely <VERB> up . ,neg,stay ,7db0d8a5-900b-4053-bf4d-583c7de18306,3
+506,He had forgotten that he put a pizza in the oven earlier.,He had <VERB> that he put a pizza in the oven earlier . ,neg,forget ,5aacbfd7-344f-4b28-a9df-d15abcb5065e,2
+507,The man breathed better.,The man <VERB> better . ,neg,breathe ,56e392f7-fde9-4031-9f86-28d64a5a3322,5
+508,Then she realized he was superficial.,Then she <VERB> he was superficial . ,neg,realize ,562f1080-838c-426e-a430-b4d9267b7986,3
+509,Fortunately his dad knew baseball very well.,Fortunately his dad <VERB> baseball very well . ,neg,know ,937db696-796d-4e84-81d2-f2e1780d117f,3
+510,He's seen too many stories about plane crashes.,He 's <VERB> too many stories about plane crashes . ,neg,see ,bf412123-744f-4c3c-add7-a9261e5bf87c,2
+511,Chad wanted the fete to have face painting and games.,Chad <VERB> the fete to have face painting and games . ,neg,want ,54eebcc5-3eee-4172-ad33-288bea61c69f,2
+512,Susie saw auditions for a movie.,Susie <VERB> auditions for a movie . ,neg,see ,7a5166a0-411d-41e9-a962-17232415c137,1
+513,Because of scheduling difficulties he had missed several appointments.,Because of scheduling difficulties he had <VERB> several appointments . ,neg,miss ,e735cacd-bb5f-4ab4-ac54-12e5273d27fa,2
+514,Greg could not sleep.,Greg could not <VERB> . ,neg,sleep ,a9eb462a-e703-4054-af0c-ed03bb2f9dc2,1
+515,The conductor blushed in embarrassment.,The conductor <VERB> in embarrassment . ,neg,blush ,e93474ff-4c09-4759-87af-47ce251670e7,5
+516,She wanted both chocolate and vanilla!,She <VERB> both chocolate and vanilla ! ,neg,want ,5d53c7a2-19c6-4b0d-a398-514b4fcd6d2c,3
+517,Nick needed a costume for a Halloween party.,Nick <VERB> a costume for a Halloween party . ,neg,need ,f2c5e8c3-4b23-4ad1-b07f-ea2d5440153d,1
+518,She vowed to keep it a secret from her mom.,She vowed to <VERB> it a secret from her mom . ,neg,keep ,18a92608-2575-46ae-997f-c0e43258fbd5,2
+519,Everyone wanted a cup of his beverage.,Everyone <VERB> a cup of his beverage . ,neg,want ,c3cb2522-5895-448c-a3ba-a3f17ae7d538,3
+520,The grocery was out of lettuce so I skipped it.,The grocery was out of lettuce so I <VERB> it . ,neg,skip ,0ea29624-5133-4e82-93c4-4f65c88c6168,2
+521,"Upon hearing this, her kids gobbled up the spinach!","Upon <VERB> this , her kids gobbled up the spinach ! ",neg,hear ,03393bcb-97d5-4a80-a1a3-6862aac5cc9a,5
+522,Kane heard a noise in her attic.,Kane <VERB> a noise in her attic . ,neg,hear ,04b9e147-9027-4534-b212-cef5908208d2,1
+523,Abby wanted nothing more than a new pair of earrings.,Abby <VERB> nothing more than a new pair of earrings . ,neg,want ,408b115d-ebfd-402a-873c-e8e11fcfec8c,2
+524,I once saw a wolf.,I once <VERB> a wolf . ,neg,see ,54fefd54-a249-4598-bc50-5506a1acd7b3,1
+525,We were very worried that she would survive.,We were very worried that she would <VERB> . ,neg,survive ,cd04a0e1-388d-4881-aca1-a3c21c5ea656,4
+526,"While his peers suffered health woes, Stu was as fit as a teen.","While his peers <VERB> health woes , Stu was as fit as a teen . ",neg,suffer ,b4e1c2c8-970e-4df7-99f4-6eccdfb8ddf3,3
+527,"He has oral apraxia, so he has to use sign language.","He has oral apraxia , so he has to <VERB> sign language . ",pos,use ,7cd098ee-231d-4247-829c-2384d139ec28,2
+528,She followed the instructions as best as she could.,She <VERB> the instructions as best as she could . ,neg,follow ,9be2cf12-5daa-4fb1-867c-2e0deffefbf0,4
+529,Tom kept it to himself and had a good time regardless.,Tom <VERB> it to himself and had a good time regardless . ,neg,keep ,b222b9b5-744e-41f2-9a28-9867904f09e9,5
+530,Kim had always wanted to be a model.,Kim had always <VERB> to be a model . ,neg,want ,3c3865a1-c0ed-48d1-b9cb-b407ab428bf8,1
+531,He was traumatized by what he saw.,He was traumatized by what he <VERB> . ,neg,see ,92f99ca8-6cb0-460a-8d29-da3830654e56,5
+532,"Deep inside, I heard a noise very close to me.","Deep inside , I <VERB> a noise very close to me . ",neg,hear ,d351f35b-9880-4c28-8e2e-8c83e8eb6765,2
+533,I heard my aunt's voice.,I <VERB> my aunt 's voice . ,neg,hear ,2337481c-c53a-4f7d-bc84-e4406fc9dc6a,2
+534,The family heard a loud crash.,The family <VERB> a loud crash . ,neg,hear ,4daed995-bb58-4d90-949b-4ecd0598fe53,1
+535,He sat in on a trial for theft.,He <VERB> in on a trial for theft . ,neg,sit ,b66b72c2-7354-4fc9-bf7a-e84686cc72a2,2
+536,Pam wanted to have a special cake for her son's birthday.,Pam <VERB> to have a special cake for her son 's birthday . ,neg,want ,bfd57b71-e7f3-4fbb-ac05-c8781009cdc3,1
+537,She was happy the teacher believed her story.,She was happy the teacher <VERB> her story . ,neg,believe ,f33dce29-59ee-403e-a147-9107bba757b9,5
+538,She saw the iPhone on her bed.,She <VERB> the iPhone on her bed . ,neg,see ,f4c01746-eb9e-4434-929e-aa2fa629c1ea,5
+539,Bill liked the girl and wanted to impress her.,Bill liked the girl and wanted to <VERB> her . ,neg,impress ,74edcc04-6f8d-4850-a4ed-647130aa2c5e,4
+540,His mom knew Bernie did not have any money.,His mom knew Bernie <VERB> not have any money . ,pos,do ,2f5eb425-a8e4-4af5-b1bf-bf459e480f77,2
+541,"But then, he just enjoyed the rain.","But then , he just <VERB> the rain . ",neg,enjoy ,fa733154-c3a4-4957-988b-255114cc934b,5
+542,The movie receives critical praise.,The movie <VERB> critical praise . ,neg,receive ,034f8b0d-4c4d-4b7d-ac25-3b7fb993f230,3
+543,Mira sits in front of him in class.,Mira <VERB> in front of him in class . ,neg,sit ,8b23f404-ac8d-4392-aa4c-57ca98e91ece,2
+544,A family was really tired of sitting in the house.,A family was really tired of <VERB> in the house . ,neg,sit ,6e169dda-1f8d-4da5-8285-2c7f31d1c7c8,1
+545,"However, her mother knows this is not healthy for Jack.","However , her mother <VERB> this is not healthy for Jack . ",neg,know ,6f717abe-915d-4fa7-ab91-dd3b33fc9c87,3
+546,She needed new ballet shoes.,She <VERB> new ballet shoes . ,neg,need ,acfcb044-f959-452c-befc-b79d61a4b4a0,2
+547,"He died a few years ago, but I'll never forget him and our adventures.","He <VERB> a few years ago , but I 'll never forget him and our adventures . ",neg,die ,34e73a30-a66f-4845-b231-5f55c1f90e86,5
+548,His mother screamed and fainted when she saw him!,His mother screamed and <VERB> when she saw him ! ,neg,faint ,ac91c5ca-2298-4785-b9fe-40fc2ab5c42a,5
+549,Terena wanted to get to know her cousin Caroline better.,Terena wanted to get to <VERB> her cousin Caroline better . ,neg,know ,728944d2-fceb-43ed-b3e0-a71931493c12,1
+550,"He wanted a sporty, fast little car.","He <VERB> a sporty , fast little car . ",neg,want ,1710c6f9-56b8-4545-b978-a5d23f31ccdf,2
+551,Everyone else was sweating.,Everyone else was <VERB> . ,neg,sweat ,77506713-673f-41f5-96d5-dbdaad5dd802,4
+552,"One day, I smelled something in his room.","One day , I <VERB> something in his room . ",neg,smell ,8cbcb897-b19b-40b6-acf9-aa78f0d240bc,2
+553,Her parents were scared something might happen.,Her parents were scared something might <VERB> . ,neg,happen ,79356bd2-b3f9-4455-a5be-353f1ae49e1b,3
+554,"I followed all the instructions, but kept messing up.","I <VERB> all the instructions , but kept messing up . ",neg,follow ,da936555-a52e-452d-bc77-2a76e02a795b,2
+555,This fear was due to her mother dying in a microwave accident.,This fear was due to her mother <VERB> in a microwave accident . ,neg,die ,37fe4e69-e798-4ef4-8f57-9b8cb16855da,2
+556,He realized that the mug had a bag crack in the bottom.,He <VERB> that the mug had a bag crack in the bottom . ,neg,realize ,06a111b6-eb6c-4218-8629-baaa7d8572f9,5
+557,Tom's mom kept a gift receipt.,Tom 's mom <VERB> a gift receipt . ,neg,keep ,bfee35a3-a3ee-4ba7-acb9-6e344693bc0c,4
+558,Abby followed the doctor's advice and had a trouble free trip.,Abby <VERB> the doctor 's advice and had a trouble free trip . ,neg,follow ,94ba4143-24a1-4253-8a85-9cdc25597091,5
+559,But he didn't know what toppings he wanted.,But he did n't <VERB> what toppings he wanted . ,neg,know ,d899c7c4-44df-4fb5-ac28-f4f7439eb503,4
+560,He feared the water wasn't clean.,He <VERB> the water was n't clean . ,neg,fear ,eeb0167e-716b-4c01-bd46-d2b93c3a9e08,3
+561,He stayed in the corner of rooms.,He <VERB> in the corner of rooms . ,neg,stay ,042e71a5-2044-4152-b2f1-87066d601ec0,4
+562,"Mary was very sad her pet fish, Bubbles, died.","Mary was very sad her pet fish , Bubbles , <VERB> . ",neg,die ,180e29af-5aed-4b9e-b4f4-7aa8b8d39fa5,1
+563,Jonathan knew there weren't any animals that road in Alaska.,Jonathan <VERB> there were n't any animals that road in Alaska . ,neg,know ,59abb09c-0eee-4fb2-a16c-ad2697a717dc,4
+564,As I sat in the doctor's office I wondered why I was even here.,As I <VERB> in the doctor 's office I wondered why I was even here . ,neg,sit ,9911943b-4c56-4ad2-8386-96fbdfc2b4e1,2
+565,The teacher assured him it would be okay.,The teacher <VERB> him it would be okay . ,pos,assure ,51f8b98a-3a8c-4394-aeb4-75f8021b877c,3
+566,I picked up the kitten and smiled.,I <VERB> up the kitten and smiled . ,pos,pick ,27e9ce1d-36cd-4077-850e-dcb2528ee1a7,4
+567,Her best friend decided to throw her a surprise party instead.,Her best friend <VERB> to throw her a surprise party instead . ,pos,decide ,4c966051-dfb5-4f03-820c-0d8dd9147cd6,4
+568,I opened the bag and started to eat a few.,I opened the bag and started to <VERB> a few . ,pos,eat ,6802c02b-ce31-4041-8f38-3d727a4edd96,2
+569,He picked out a chocolate bar.,He <VERB> out a chocolate bar . ,pos,pick ,426a39ed-fc35-4c40-a3c6-069059aed44b,2
+570,His cat cut his headphones with a single swipe.,His cat <VERB> his headphones with a single swipe . ,pos,cut ,348e74b6-395f-4120-a649-1225794753dc,3
+571,"Amy, Ryan and Lisa got ready for the first day of Bible School.","Amy , Ryan and Lisa <VERB> ready for the first day of Bible School . ",pos,get ,b770deaa-a955-44c3-ad77-04688c9e0643,1
+572,Chad was helping his friend pick out an engagement ring.,Chad was <VERB> his friend pick out an engagement ring . ,pos,help ,60824403-8ec1-4a21-8192-bb252e3a2a25,1
+573,Sylvia was blowing out her birthday candles.,Sylvia was <VERB> out her birthday candles . ,pos,blow ,5074e2df-427b-4eec-be74-3233e3a276aa,1
+574,His voice cracked during the first line.,His voice <VERB> during the first line . ,pos,crack ,5ec09ae3-d644-4c96-94d3-d98e87e4c066,5
+575,I got home from work.,I <VERB> home from work . ,pos,get ,089b9091-bed8-4976-8f12-20a07cacb3de,1
+576,"I ate them anyway, and felt terrible afterward.","I <VERB> them anyway , and felt terrible afterward . ",pos,eat ,22925f31-9695-4cdd-b97b-7cd6f0762014,4
+577,I grabbed my car keys and went out and got in my car.,I grabbed my car keys and went out and <VERB> in my car . ,pos,get ,0a7fdbcb-eb95-4e6b-9d57-acadcdb37d46,2
+578,I walked to the store instead of driving.,I walked to the store instead of <VERB> . ,pos,drive ,2c377165-d0b3-4a24-949c-343c870c5860,2
+579,One night the younger brother fell from the porch.,One night the younger brother <VERB> from the porch . ,pos,fall ,b6386971-d321-497f-9b7f-dde455f9993f,4
+580,Cathy loved to watch her daughter play the game of soccer.,Cathy <VERB> to watch her daughter play the game of soccer . ,pos,love ,276b295d-f302-4c4b-a5fd-9661119f8279,2
+581,Wyatt's friends started to tease the girl.,Wyatt 's friends <VERB> to tease the girl . ,pos,start ,4d0f0082-fb1f-405c-a7b9-8c5babe0d60c,3
+582,I ended up quitting.,I <VERB> up quitting . ,pos,end ,418a835d-c6ea-43dc-9cec-3755287cac8a,5
+583,The gravity got to four times as strong.,The gravity <VERB> to four times as strong . ,pos,get ,c891333a-dbf1-4b91-8351-30016e166171,4
+584,"After a half mile, Caleb decided to quit.","After a half mile , Caleb <VERB> to quit . ",pos,decide ,dd5bff8e-c1c1-4ec4-b8b0-82df57511774,5
+585,Eric's mom was planning a large family dinner for tonight.,Eric 's mom was <VERB> a large family dinner for tonight . ,pos,plan ,5325a1ea-166e-4f66-b948-84794c6290a2,1
+586,Now Matt's wife will stop complaining about the lawn.,Now Matt 's wife will stop <VERB> about the lawn . ,pos,complain ,26826761-a2a4-4e1c-8c9b-fa0e0bfcb26f,5
+587,She decided to buy a boxed dye.,She decided to <VERB> a boxed dye . ,pos,buy ,2c42dd0c-d795-488b-ae60-6f125a154af8,2
+588,The girl told Kevin how to get to her house.,The girl told Kevin how to <VERB> to her house . ,pos,get ,1908f9ba-3464-4b34-a7b4-1b9096fcee0b,5
+589,I repeat the same pattern the next day.,I <VERB> the same pattern the next day . ,pos,repeat ,5448071c-e111-41d6-92d2-b55af8168a15,5
+590,He got quite a few autographs too.,He <VERB> quite a few autographs too . ,pos,get ,b34f5409-16e2-4043-8558-fa2a664ff613,4
+591,He decided to pretend the blood was just raspberry jam.,He <VERB> to pretend the blood was just raspberry jam . ,pos,decide ,3a1dc60b-8b7f-47aa-91dd-c6257e35160e,3
+592,Gina sat at the red light for 2 minutes before getting a green one.,Gina sat at the red light for 2 minutes before <VERB> a green one . ,pos,get ,2a750ad3-1c90-465b-bd62-caaa0a27c7f2,4
+593,Madison's mom bought a special dessert for her at the store to make.,Madison 's mom <VERB> a special dessert for her at the store to make . ,pos,buy ,87ecc729-e57b-43a0-8164-5b3ea5b25925,1
+594,Tommy's father came in from mowing the lawn.,Tommy 's father <VERB> in from mowing the lawn . ,pos,come ,ee31516f-a70e-4061-ba17-415c8c404340,1
+595,He has not studied.,He has not <VERB> . ,pos,study ,60732b37-2367-48c6-a54b-5647c4f2c673,2
+596,They made it to the championship game.,They <VERB> it to the championship game . ,pos,make ,fcd6f6f6-c6c0-4211-8d56-ba4dcc210a29,3
+597,Her friends decided to show the movie to the whole school.,Her friends <VERB> to show the movie to the whole school . ,pos,decide ,ea80441f-0d5d-4b2f-a604-85c945a28e3c,4
+598,She had no idea what to do about her single life now.,She had no idea what to <VERB> about her single life now . ,pos,do ,568b8485-f0d6-4f80-840c-f8243c6dc6b3,5
+599,A man was driving a bus full of people down the city street.,A man was <VERB> a bus full of people down the city street . ,pos,drive ,739ba56e-540e-45ea-b2a0-f0822981c24b,1
+600,Getting in her car she finds 5 hundred dollar bills below her car!,Getting in her car she <VERB> 5 hundred dollar bills below her car ! ,equal,find ,26d554c5-e104-4411-8dfc-a187f58228de,5
+601,One day our teacher talked to us about the websites.,One day our teacher <VERB> to us about the websites . ,pos,talk ,e83f50f0-485c-4873-8d86-a839b2cafc36,3
+602,"In a fit of madness, he created a terrible video game.","In a fit of madness , he <VERB> a terrible video game . ",pos,create ,db083d4c-4fe5-4a91-885e-31985190b9d1,4
+603,He wrote Shopping List at the top of the paper.,He <VERB> Shopping List at the top of the paper . ,pos,write ,32756509-44ee-4639-a9ae-f967c1733443,5
+604,Rob tried to prevent the dog from attacking his private parts.,Rob tried to prevent the dog from <VERB> his private parts . ,pos,attack ,eaa8f6db-2cb9-4db3-b9d6-0bb15d5433e4,5
+605,Steve hiked the ball and threw it deep for a game winning touchdown.,Steve hiked the ball and <VERB> it deep for a game winning touchdown . ,pos,throw ,3578fba6-f473-4909-b721-41869dc32658,5
+606,Joe just cash his check and had lots of money.,Joe just <VERB> his check and had lots of money . ,pos,cash ,7082c139-e9e6-4f39-88d6-9a6d56eed275,3
+607,Her first assignment was to feed the penguins.,Her first assignment was to <VERB> the penguins . ,pos,feed ,e2e53722-cc00-4d83-957d-402882ed5a9c,3
+608,The kids were starving.,The kids were <VERB> . ,pos,starve ,f21508e9-59fa-4478-a06c-bae3259ab9fc,1
+609,She told him some young Jasper came to the door and dropped him off.,She told him some young Jasper <VERB> to the door and dropped him off . ,pos,come ,44c97c04-21db-400a-a168-5dec6ab35fe6,3
+610,Our parrot got out of its cage.,Our parrot <VERB> out of its cage . ,pos,get ,81e472c1-87ea-4e66-bf04-a68c8e7ebd96,1
+611,"She needed books that contained facts, not photo's.","She needed books that <VERB> facts , not photo 's . ",pos,contain ,b46613b8-4aa4-4835-9569-50506e45adcc,5
+612,one night we went out to different places and neither of us drove.,one night we went out to different places and neither of us <VERB> . ,pos,drive ,3c3a4f45-21ee-4289-85ae-637831592378,2
+613,"Against all odds, Tyler passes his Chemistry exam.","Against all odds , Tyler <VERB> his Chemistry exam . ",pos,pass ,8cafce62-3e2e-451c-a5da-f819c552f085,5
+614,Sam didn't anticipate a flood.,Sam did n't <VERB> a flood . ,pos,anticipate ,add59866-d82f-4d25-9d2b-c25f9543eebb,3
+615,He decided to do something about it.,He <VERB> to do something about it . ,pos,decide ,7ce278cc-2101-4035-b342-521becfbf9db,3
+616,I wanted to become muscular.,I wanted to <VERB> muscular . ,pos,become ,ea5db052-4360-4766-9021-84b52d5e6236,1
+617,Tim was a kid that loved professional wrestling.,Tim was a kid that <VERB> professional wrestling . ,pos,love ,41bea42b-4889-47b6-b01e-b085185d7b3e,1
+618,He ended up winning a light weight division trophy for the school.,He <VERB> up winning a light weight division trophy for the school . ,pos,end ,cab11781-02f4-4969-b0a2-d1bb15395ecf,5
+619,His face started to swell and he had trouble breathing.,His face <VERB> to swell and he had trouble breathing . ,pos,start ,da0b0407-37db-489f-9387-c869fadac9b8,4
+620,The ugly looks worked to bring her attention.,The ugly looks worked to <VERB> her attention . ,pos,bring ,c7335048-fc49-4dcf-b7e2-3f9ff73775ce,5
+621,They ran down stairs to check their stockings.,They ran down stairs to <VERB> their stockings . ,equal,check ,223d7f00-fc54-47b5-bd77-a4800bd9e303,3
+622,Now Adrienne has to cancel her plans this weekend.,Now Adrienne has to <VERB> her plans this weekend . ,pos,cancel ,adcb32a4-fcbc-40e7-91fd-18f7110b1c9e,5
+623,Tom adopts a young black puppy.,Tom <VERB> a young black puppy . ,pos,adopt ,ff629d84-6704-4e2c-ad18-7afe231ba106,3
+624,He decided to take a class to gain the skill.,He <VERB> to take a class to gain the skill . ,pos,decide ,20f28384-180a-4273-ab58-7fd298534556,2
+625,He runs inside to get away from them.,He runs inside to <VERB> away from them . ,pos,get ,f517c1fc-041d-4238-a6d5-664a32918f9b,3
+626,She took her temperature to check for a fever.,She took her temperature to <VERB> for a fever . ,equal,check ,551a4e90-b091-4af9-a917-9c4891fdabb9,2
+627,But it didn't fit me properly.,But it <VERB> n't fit me properly . ,pos,do ,1c69fab2-a4bd-4ca2-81ce-0602d183e893,3
+628,She however gave the guy another chance.,She however <VERB> the guy another chance . ,pos,give ,c4bd1add-999f-4f49-9f67-de992668ae47,4
+629,I was excited about taking my children to the local Zoo.,I was excited about <VERB> my children to the local Zoo . ,pos,take ,502ede0b-b4d8-4dd2-8454-89771a69dbcd,1
+630,After putting in a lot of new parts the tv worked.,After <VERB> in a lot of new parts the tv worked . ,equal,put ,ecc68503-1de6-4c92-a2f9-69d178b492df,4
+631,He did not have enough money to pay it.,He <VERB> not have enough money to pay it . ,pos,do ,16d0cb03-0ccd-4884-b329-64133964aef4,2
+632,Ken finally felt confident enough to buy it.,Ken finally felt confident enough to <VERB> it . ,pos,buy ,a8b845a5-e536-4bfb-aa6f-c36e3b54df17,4
+633,"They planted carrots, potatoes, corn, asparagus, and wheat.","They <VERB> carrots , potatoes , corn , asparagus , and wheat . ",pos,plant ,07e8c867-68bb-4025-b2ac-715b86667f3d,3
+634,Mike was living in a city far from the one he grew up in.,Mike was living in a city far from the one he <VERB> up in . ,pos,grow ,c818e69a-1636-42e1-a3be-a7835d293284,1
+635,Billy loved to collect board games.,Billy loved to <VERB> board games . ,pos,collect ,4c22a0f7-d549-4a8b-9b0e-200d556d602f,1
+636,I climbed out and ran for my life.,I <VERB> out and ran for my life . ,pos,climb ,2fb513e6-ee19-4082-9469-bf59e44fd109,4
+637,Jason had to run extra drills at his next practice.,Jason had to <VERB> extra drills at his next practice . ,pos,run ,fdffdda5-af5e-42e4-b1cc-245ab97fd08d,4
+638,Joseph never ate lunch at school.,Joseph never <VERB> lunch at school . ,pos,eat ,42e8c63f-c369-4785-8b29-c580096d2d19,1
+639,She decided to let Faith take lessons with her sister.,She <VERB> to let Faith take lessons with her sister . ,pos,decide ,b122d68d-55cc-4ea5-b131-8d9adfc79bb2,4
+640,Then they walked around the beautiful grounds.,Then they <VERB> around the beautiful grounds . ,pos,walk ,86740242-106f-419b-8b9f-7427355c48de,4
+641,After mulling it over the owner decided not to sell.,After mulling it over the owner <VERB> not to sell . ,pos,decide ,260f8681-4f69-4ef2-83b7-f04ae971eba7,4
+642,She worked hard at cutting out the pattern.,She worked hard at <VERB> out the pattern . ,pos,cut ,70fd0f50-dd9b-4d91-832c-81b5e68cdcf6,2
+643,Every day John Johnson tended to his lawn.,Every day John Johnson <VERB> to his lawn . ,pos,tend ,cc7d1340-cae4-4098-8ac0-fcc219ad802b,2
+644,The girls sat stunned in silence.,The girls <VERB> stunned in silence . ,neg,sit ,d0cd6d94-084a-488f-b62b-8d61c8cf4f13,5
+645,He woke up early because of the roosters.,He <VERB> up early because of the roosters . ,pos,wake ,8a08aec2-c697-4e26-a5dc-381a7fcfc50f,2
+646,He then designed the piece well.,He then <VERB> the piece well . ,pos,design ,23432a3e-50e7-4196-b7c7-6d5f3b3ab8a2,5
+647,He had to swerve to avoid it all the time.,He had to swerve to <VERB> it all the time . ,pos,avoid ,371b189e-c21b-4db8-b3cf-8ef5852a8776,2
+648,A stone from its trunk jumped into John's car.,A stone from its trunk <VERB> into John 's car . ,pos,jump ,08eebd20-9cc0-40e9-ac14-04369962bbd0,3
+649,"Unfortunately, he ended up being late to work.","Unfortunately , he <VERB> up being late to work . ",pos,end ,d8a47ff0-c8bf-40a9-aca1-dc1bc428ce86,5
+650,The casino player challenged me to a game.,The casino player <VERB> me to a game . ,pos,challenge ,f4dbad68-b274-4146-b9c9-dced59315e6a,1
+651,Bill went online and purchased his tickets.,Bill <VERB> online and purchased his tickets . ,equal,go ,a9762f1c-f8d7-4bca-9af9-4f078a87e39e,3
+652,He was very happy and delighted to finally reach his dream.,He was very happy and <VERB> to finally reach his dream . ,pos,delight ,c1004d5e-c747-4089-b3bd-a19f1229cf5e,5
+653,I swept up the pieces.,I <VERB> up the pieces . ,pos,sweep ,a7a9dbe9-f924-4734-885c-281898b19d21,4
+654,She told her mother.,She <VERB> her mother . ,pos,tell ,acfcb044-f959-452c-befc-b79d61a4b4a0,3
+655,Fear gripped John as the announcer finished the list.,Fear gripped John as the announcer <VERB> the list . ,pos,finish ,23735c0d-1af6-4823-b128-ae414ff26af9,3
+656,Nina couldn't find a dress to wear to the school dance.,Nina could n't <VERB> a dress to wear to the school dance . ,equal,find ,5fb5093a-ade7-4fbc-b49b-7747e26c4ffe,1
+657,There was an overly drunk man causing ruckus.,There was an overly drunk man <VERB> ruckus . ,pos,cause ,3ace0647-7f66-4e90-b509-c3f1a67c10b9,2
+658,"One day when they went out to the movies, he confessed to her.","One day when they went out to the movies , he <VERB> to her . ",pos,confess ,38acf798-6e0b-48a7-95e8-d07bd5f4876d,3
+659,He gave me a ticket for speeding.,He <VERB> me a ticket for speeding . ,pos,give ,3cfb8264-a306-47ed-88fc-c5e32d837623,4
+660,"However,I woke up too late in the middle of the next morning.","However , I <VERB> up too late in the middle of the next morning . ",pos,wake ,4ad015c7-432c-4f87-8c3c-1840a65f62ff,3
+661,He asked about the tag.,He <VERB> about the tag . ,pos,ask ,c5cfe87c-0e8c-4022-83b4-72c6bb496120,3
+662,He asked about the tag.,He <VERB> about the tag . ,pos,ask ,9f36701f-a27e-43d8-89ef-1b4e55eb4951,3
+663,Then her supervisor called her into his office.,Then her supervisor <VERB> her into his office . ,pos,call ,00135589-d9b2-41c7-a4c3-31bdb5ba8c21,3
+664,We recorded ourselves singing to the music.,We <VERB> ourselves singing to the music . ,equal,record ,b10333db-1bbf-4f53-a715-98aecaba09bc,5
+665,The refrigerator was cleaned out every day after 8PM.,The refrigerator was <VERB> out every day after 8PM . ,pos,clean ,3a4d381e-05bb-437d-89ba-3ea2fbee7dbb,2
+666,Today I took my son to swim class.,Today I took my son to <VERB> class . ,pos,swim ,c351eb8f-fa63-4012-9ce8-882b8da649af,1
+667,I called my friend to ask her what else she remembered.,I called my friend to <VERB> her what else she remembered . ,pos,ask ,73d48c91-3762-4f0c-9b9b-1423c613f1d2,3
+668,"Thankfully, the store gave me a refund.","Thankfully , the store <VERB> me a refund . ",pos,give ,2b83bb55-f1e0-4c95-ad1b-6b0d336a6ac6,5
+669,Timmy loved the taste of the smoothie and drank it all down.,Timmy <VERB> the taste of the smoothie and drank it all down . ,pos,love ,3866ac1f-d39c-4aaa-a9d1-2657a59997e2,5
+670,"His mum used to call him that, and they brought back happy memories.","His mum used to call him that , and they <VERB> back happy memories . ",pos,bring ,1edac97e-346d-4ce4-a670-699d44eb471d,5
+671,She ate her meal in disgust.,She <VERB> her meal in disgust . ,pos,eat ,e11aa466-8782-458c-8765-2574e83eb970,4
+672,I was driving down the road one rainy night after dark.,I was <VERB> down the road one rainy night after dark . ,pos,drive ,7ee2580c-43bf-4257-8abb-09b0ec29b9db,1
+673,He becomes drunk.,He <VERB> drunk . ,pos,become ,a1576510-d914-4274-abe0-c687f0c5f44a,4
+674,He ended up hitting the last pitch.,He <VERB> up hitting the last pitch . ,pos,end ,3b24c760-2a4f-4e52-9c98-16354557a344,3
+675,They had to order him a red one.,They had to <VERB> him a red one . ,pos,order ,1ceb5a48-e85d-485f-b81a-c4c41ba76566,5
+676,He hit his head and started bleeding.,He <VERB> his head and started bleeding . ,pos,hit ,09c714ac-ae30-4641-a2bf-9ec6e0dc1c77,4
+677,She sat in the cart while they shopped.,She sat in the cart while they <VERB> . ,pos,shop ,10df578f-8026-4b1f-b072-6bac0afa4bb5,2
+678,"The next day, the market fell over 200 points.","The next day , the market <VERB> over 200 points . ",pos,fall ,63142899-037b-44ba-93c8-05df2e55ffbf,3
+679,I got the larger sized truck so I'd be safe rather than sorry.,I <VERB> the larger sized truck so I 'd be safe rather than sorry . ,pos,get ,7b3317e1-1f77-4163-8f96-ce12293f6b22,5
+680,Carmen tells her parents she wants a job.,Carmen <VERB> her parents she wants a job . ,pos,tell ,bf370b6c-1a9f-45ea-b3db-50cf540d6682,1
+681,"Now, I don't make food until a few hours before a potluck.","Now , I <VERB> n't make food until a few hours before a potluck . ",pos,do ,7c2fddca-6b6b-43de-a7d4-688381e5685d,5
+682,Tom was playing cards with other guys in his college dorm.,Tom was <VERB> cards with other guys in his college dorm . ,pos,play ,c0a9d22c-ad49-47d7-b37a-ee47033d3b8e,1
+683,Emily heard Pepper's barking and came to save him.,Emily heard Pepper 's barking and <VERB> to save him . ,pos,come ,d3c9ee4c-383c-4382-9e85-2a42ce88b261,4
+684,The neighbor asked Paul why he was setting traps.,The neighbor <VERB> Paul why he was setting traps . ,pos,ask ,c9374c63-40e6-41b3-b01e-fe6f2615a890,3
+685,Josh decided he needed to get more vitamins.,Josh <VERB> he needed to get more vitamins . ,pos,decide ,ae7787aa-9d56-4f22-8ec7-b53d174bad12,3
+686,Gina was relieved when she was the only one at the pharmacy.,Gina was <VERB> when she was the only one at the pharmacy . ,pos,relieve ,ac804447-a0f9-4bba-abf1-464becb95d28,5
+687,"When winter comes, she is ready with her terrific new coat.","When winter <VERB> , she is ready with her terrific new coat . ",pos,come ,780606a5-aae3-4636-8d34-459dd688487a,4
+688,Soon they got hired to play at a wedding.,Soon they <VERB> hired to play at a wedding . ,pos,get ,e09abfa3-e9e1-4458-a9cf-6e09612b95cc,3
+689,His parents take him to the hospital to get a cast on it.,His parents take him to the hospital to <VERB> a cast on it . ,pos,get ,382a28e4-a7a1-42a6-9256-5aa4b0ad64e3,5
+690,"Unfortunately, the car behind her was speeding as she stopped her car.","Unfortunately , the car behind her was <VERB> as she stopped her car . ",pos,speed ,a5a00964-1330-4533-9c18-5c9a790bd770,4
+691,Tom knocked off the table a cup with juice.,Tom <VERB> off the table a cup with juice . ,pos,knock ,c23241f7-394b-49d6-bcd6-9e22e694b261,3
+692,Not many people who have been in war do!,Not many people who have been in war <VERB> ! ,pos,do ,4d6b44ef-1ece-41c3-b414-df2810dbe4e4,2
+693,He decorated the bus and put a bed in it.,He <VERB> the bus and put a bed in it . ,pos,decorate ,645496bb-f2f8-4e17-95ca-a56fc30c4dbe,4
+694,My daughter's neighborhood friend Debbie got married last November.,My daughter 's neighborhood friend Debbie <VERB> married last November . ,pos,get ,b356fa73-59f1-4f80-90e7-52931c54fadf,1
+695,Jimmy washed his hands by using the cup and then drying with a napkin.,Jimmy washed his hands by using the cup and then <VERB> with a napkin . ,pos,dry ,9b098d2d-7c74-441c-b3c8-a4de671f18b6,5
+696,I took my son deep-sea fishing when he was 11 years old.,I <VERB> my son deep - sea fishing when he was 11 years old . ,pos,take ,287c934d-8de8-4d46-83d4-03ee321591d7,1
+697,Tom was jogging in the park on a Saturday afternoon.,Tom was <VERB> in the park on a Saturday afternoon . ,pos,jog ,e5febfc9-ccbe-4151-a9de-033c14688188,1
+698,Things were picking up and getting very busy.,Things were picking up and <VERB> very busy . ,pos,get ,07ea2602-60a7-476f-8d85-db99b3e8a85c,2
+699,Kev became very angry when he couldn't find the tool.,Kev <VERB> very angry when he could n't find the tool . ,pos,become ,85d8cb34-c8c8-4cef-a952-92b7174a20b2,4
+700,Terry wanted to improve his basketball skills.,Terry wanted to <VERB> his basketball skills . ,pos,improve ,eda35e8a-2974-4b10-8bb7-7b8c9702decd,2
+701,But he came out winning more than he did in one year.,But he <VERB> out winning more than he did in one year . ,pos,come ,644a349d-82b7-4070-8520-7f2a18c929ba,5
+702,"Afterwards, we grabbed a bite to eat and returned home.","Afterwards , we grabbed a bite to <VERB> and returned home . ",pos,eat ,56b2892a-323b-4442-9eb0-7b06d701e0d6,5
+703,Sam pushed open his cell door and ran past the other guards.,Sam <VERB> open his cell door and ran past the other guards . ,pos,push ,7a609ee5-34e4-4f8b-9773-8c51041d7dea,3
+704,Sara wanted to take dance.,Sara wanted to <VERB> dance . ,pos,take ,e4864fb9-834d-4abf-8fd6-2246d79690fc,1
+705,"The next day, he awoke and saw his bird dead in the cage.","The next day , he <VERB> and saw his bird dead in the cage . ",pos,awake ,a8a39e3d-2e56-4388-b058-547442f8ef76,4
+706,They also won a free year's worth of ice cream.,They also <VERB> a free year 's worth of ice cream . ,pos,win ,a2aeb689-19e8-4d69-8048-538aa136c519,3
+707,So he ordered jugs of water online.,So he <VERB> jugs of water online . ,pos,order ,c929a3e7-171d-4bfd-8062-ae5e5d4d7ab4,3
+708,Max ran over and intervened.,Max ran over and <VERB> . ,pos,intervene ,1099f522-f595-4e91-a8ed-355a084d0c45,5
+709,To be safe she arrived thirty minutes early to catch it.,To be safe she <VERB> thirty minutes early to catch it . ,equal,arrive ,0cf9f6fb-5aae-4acc-864c-87a404644642,3
+710,"Toward the end of the night, they decided to play spin the bottle.","Toward the end of the night , they <VERB> to play spin the bottle . ",pos,decide ,1fa25edd-5a8a-45c8-93a3-7c432e8a8300,3
+711,We took him out to celebrate afterwards.,We took him out to <VERB> afterwards . ,pos,celebrate ,8b92ee8d-7659-4443-84c6-324556a73aab,5
+712,"He paid off his debts, and saved up for a down payment.","He <VERB> off his debts , and saved up for a down payment . ",equal,pay ,edb32dd1-d4ce-407c-830a-a9523ccb0d54,3
+713,"Once at the club, she tried out the moves she had practiced.","Once at the club , she tried out the moves she had <VERB> . ",pos,practice ,898afe27-8db8-4c65-9d67-b27e312d6d8d,4
+714,"At the party, the dogs ate treats and played fetch.","At the party , the dogs <VERB> treats and played fetch . ",pos,eat ,639a42ee-f5be-4953-8386-21568c6a7742,4
+715,She told him her name was Dori and looked into his eyes.,She told him her name was Dori and <VERB> into his eyes . ,equal,look ,1150bd8f-beaa-420d-993e-8b6edd1eee04,4
+716,"While playing, Sammy accidentally broke a vase!","While playing , Sammy accidentally <VERB> a vase ! ",pos,break ,f49ce24b-886c-4ed3-8b09-ab04d993b88e,3
+717,The teacher asked everyone to share a story from the summer.,The teacher <VERB> everyone to share a story from the summer . ,pos,ask ,b99b4829-4afe-41ee-aca8-cc505d5af725,2
+718,He laughed in my face then asked where is the money.,He laughed in my face then <VERB> where is the money . ,pos,ask ,0b07565d-cf98-4e72-bce1-a5fc9a661d7f,3
+719,Instead of water Zach filled the glass with vodka.,Instead of water Zach <VERB> the glass with vodka . ,pos,fill ,7cf4368e-4bc8-4234-91a3-8bc8a695921c,3
+720,She decided to purchase the iPad mini.,She <VERB> to purchase the iPad mini . ,pos,decide ,a93aff35-519d-46e0-b2e3-11db016a62d9,3
+721,"After lunch, they walked around some more.","After lunch , they <VERB> around some more . ",pos,walk ,10c4e59e-89a4-4cc7-ac7c-832aa3408100,4
+722,He would work for a variety of different clients.,He would <VERB> for a variety of different clients . ,pos,work ,9bece8fa-381f-406b-86ba-6d4ff1e500a3,2
+723,She gave her best guess and slipped the paper in the box.,She <VERB> her best guess and slipped the paper in the box . ,pos,give ,f87f78cd-425a-4ba4-9178-5a8d057b6798,4
+724,"He, however, has never built one.","He , however , has never <VERB> one . ",pos,build ,a59311d6-bf96-4665-b9fe-020dd57407c2,3
+725,He didn't find the jokes very funny.,He <VERB> n't find the jokes very funny . ,pos,do ,23e0e815-4940-4452-a817-995b13e6d01a,4
+726,We took the bird outside to fly but it died.,We took the bird outside to <VERB> but it died . ,pos,fly ,1a936c8c-2f47-436b-9331-26fd8ce22e9f,5
+727,Then she sprayed it with some shiny polish in a can.,Then she <VERB> it with some shiny polish in a can . ,pos,spray ,7e988347-3bbc-49df-af8e-ae7a2d77ce2b,3
+728,It offers free pint glasses on each patron's first tour.,It <VERB> free pint glasses on each patron 's first tour . ,pos,offer ,b233c6fa-c54e-4b25-9237-c4fb3a0c4384,3
+729,The crime rate began to grow rapidly.,The crime rate <VERB> to grow rapidly . ,pos,begin ,6426d470-ed5d-4103-a774-c3f4acc28b9c,3
+730,He told them there was just no magic in rock and roll.,He <VERB> them there was just no magic in rock and roll . ,pos,tell ,7467c74a-9c68-47f6-8a37-527e97a07d36,5
+731,"He said cereal is stupid, which made me angry.","He said cereal is stupid , which <VERB> me angry . ",pos,make ,8dcb8d49-87ef-48e6-aa44-448a9fcb6a2f,4
+732,She did and now she has $100.,She <VERB> and now she has $ 100 . ,pos,do ,bc2c576f-faa0-44af-82d3-ebfe916a3153,5
+733,Tim was cooking pasta.,Tim was <VERB> pasta . ,pos,cook ,1d9b38a2-dff4-4835-8ff6-22f52970c82c,1
+734,Rhonda was already late when heading to the airport for a flight.,Rhonda was already late when <VERB> to the airport for a flight . ,pos,head ,e8206842-b8c4-48a7-bf3f-f0ecc0532a58,1
+735,I turned around and walked away and my husband followed.,I <VERB> around and walked away and my husband followed . ,pos,turn ,ccc3c839-50bf-495b-93c0-decfe493e0bf,5
+736,Samantha's mom was elated to eat breakfast in bed.,Samantha 's mom was elated to <VERB> breakfast in bed . ,pos,eat ,f2b22054-ebfe-4f34-8596-2a095ce2afbf,5
+737,"She searched through many stores, but every alarm she slept through.","She <VERB> through many stores , but every alarm she slept through . ",pos,search ,63fe726f-e53d-40b5-a833-bc00c3cca696,3
+738,After a long drought the lake water level dropped.,After a long drought the lake water level <VERB> . ,pos,drop ,be103dfb-ac24-4b84-b069-de01a69d56e1,4
+739,"Instead, Laura hopped on her bike.","Instead , Laura <VERB> on her bike . ",pos,hop ,8ef84b21-ea53-43ee-a278-0de08a667842,4
+740,Anne wrote a letter to her pen pal.,Anne <VERB> a letter to her pen pal . ,pos,write ,0b3f3534-4027-4adf-aca1-c553c64bbf23,1
+741,It began to rain.,It <VERB> to rain . ,pos,begin ,44161d21-156b-49a1-a494-465cace98945,2
+742,He wasn't convinced and arranged a divorce.,He was n't convinced and <VERB> a divorce . ,pos,arrange ,14f21fc1-2503-4697-b7cb-be7dd7970d92,3
+743,I watched my snake try to eat a fish.,I watched my snake try to <VERB> a fish . ,pos,eat ,42642e83-b6dc-4f66-8ecd-fe1da8af876e,1
+744,After a few weeks the melon was fully grown.,After a few weeks the melon was fully <VERB> . ,pos,grow ,54de44db-8cb8-4e69-8d1c-3377384bd620,3
+745,"Erica's friend rushed over and fixed her hair, saving the day.","Erica 's friend rushed over and <VERB> her hair , saving the day . ",pos,fix ,c5fb79fc-b334-47bb-b254-e9102e5f0463,5
+746,I decided to be a referee instead.,I <VERB> to be a referee instead . ,pos,decide ,120dc38b-6336-420f-a50e-4b3876c20ba7,5
+747,Edward took the electronic money and bought his daughter a doll.,Edward took the electronic money and <VERB> his daughter a doll . ,pos,buy ,f0342ab9-772e-4f7e-ae53-05598bb6a940,1
+748,I worked out in my jeans instead.,I <VERB> out in my jeans instead . ,pos,work ,d93bd7e6-dd7e-4b8a-bee1-a5ec2b0d0259,4
+749,She met Sean at the movies and he greeted her with a hug.,She met Sean at the movies and he <VERB> her with a hug . ,equal,greet ,c51764bd-6591-42e0-aab3-5aa8d63a154d,3
+750,She returned from her hiking trip on Sunday.,She <VERB> from her hiking trip on Sunday . ,pos,return ,a869543f-9aec-41ab-b21e-780c857ee489,4
+751,He made it to the clearing to the breathtaking view.,He <VERB> it to the clearing to the breathtaking view . ,pos,make ,2f652ed3-de35-4609-9a0d-a98929dd65b0,4
+752,He asked family for advice.,He <VERB> family for advice . ,pos,ask ,a34939c3-a745-4d4f-9bf8-ea649a8dc0a1,3
+753,The bully and her friends were taunting her.,The bully and her friends were <VERB> her . ,pos,taunt ,2e13ce03-20a8-4221-a77c-0d7b027ed998,3
+754,We worked out a deal.,We <VERB> out a deal . ,pos,work ,d25c8e76-9fde-4cdb-84b7-912632bdf0b2,4
+755,"Suddenly, a car hit his back wheel.","Suddenly , a car <VERB> his back wheel . ",pos,hit ,90031930-d42e-4946-b8eb-4fe3d27548ac,2
+756,Eventually Bob's pets became more familiar with each other.,Eventually Bob 's pets <VERB> more familiar with each other . ,pos,become ,da6778d1-3227-4de8-be9a-339d29cd76ec,4
+757,Debra passed away a few months later.,Debra <VERB> away a few months later . ,pos,pass ,e6e3814f-66fa-4a4d-9ab6-bf4e04de9fcd,5
+758,He called the number on the letter.,He <VERB> the number on the letter . ,pos,call ,53a8914f-3efc-4793-bad8-68445859bf91,4
+759,The captain decided to sail around the new island to map it.,The captain <VERB> to sail around the new island to map it . ,pos,decide ,496ef9a1-0a0d-4ad1-83e3-53e477b25475,4
+760,He asked him to pick up some wine too.,He <VERB> him to pick up some wine too . ,pos,ask ,7efbc3a5-43a3-4058-9a9c-a02435b1f715,4
+761,She joined in a combination class.,She <VERB> in a combination class . ,pos,join ,56a86663-e8cd-4771-8bde-0d2a84d55b85,2
+762,"But 5 minutes into the hike, he got to see a giant falcon!","But 5 minutes into the hike , he <VERB> to see a giant falcon ! ",pos,get ,4738f2d9-fe5d-44c1-9952-16abd19ce265,4
+763,Diane won first place in the contest.,Diane <VERB> first place in the contest . ,pos,win ,c4ab2ad5-d8ed-4761-ab63-eaa920d2baa3,5
+764,The neighbors apologized and obliged.,The neighbors <VERB> and obliged . ,pos,apologize ,f5e996a6-190f-4404-b3c7-3fb59ac48ee6,5
+765,Luckily the teacher saw and did something about.,Luckily the teacher saw and <VERB> something about . ,pos,do ,a30925ab-58e9-4d5d-a379-3828492a628f,4
+766,Cora thought cleaning was boring.,Cora <VERB> cleaning was boring . ,pos,think ,ac2cbcb5-159c-4ae0-af73-ad3832d9b66a,2
+767,She tried her best to make things work.,She tried her best to <VERB> things work . ,pos,make ,afa0eb49-0789-4e2c-b5c7-cde6b2907a3a,3
+768,Then she grinned - it was delicious!,Then she <VERB> - it was delicious ! ,pos,grin ,b7d1fe3a-9851-40da-bd6c-7f660d49b900,5
+769,Ron's neighbor watched as Ron started to fix his porch.,Ron 's neighbor watched as Ron started to <VERB> his porch . ,pos,fix ,014fe4dc-52f9-4c16-a4ae-8190ddcdbc8e,1
+770,Tom was walking around his apartment.,Tom was <VERB> around his apartment . ,pos,walk ,2ff16e19-6033-4ed2-b08c-e75c9435f6b3,1
+771,Cynthia really loved video games.,Cynthia really <VERB> video games . ,pos,love ,e2930580-f202-4f81-b00a-57082c17fd9c,1
+772,Colin struggled to hit the baseball whenever he was up to bat.,Colin struggled to <VERB> the baseball whenever he was up to bat . ,pos,hit ,1cc91fd0-0aa1-4feb-9cad-0cb7e754f580,2
+773,His mom was happy that he was eating healthier foods.,His mom was happy that he was <VERB> healthier foods . ,pos,eat ,1f7375dc-e945-4da0-a5bf-9fdab584d3e5,5
+774,Rider's favorite television show was about to start.,Rider 's favorite television show was about to <VERB> . ,pos,start ,4f1abee4-41eb-492e-a3ac-5001a1bb451a,1
+775,Tim used his elbow striking to ward off the attackers.,Tim used his elbow <VERB> to ward off the attackers . ,pos,strike ,1c3f1eea-88fe-4c77-aebd-85953520dafd,4
+776,"His wife however, loved to have a perfect yard.","His wife however , <VERB> to have a perfect yard . ",pos,love ,62d31be6-2248-4372-8cea-4848774425fe,3
+777,Kate thought this was a place for a celebrity to stay.,Kate thought this was a place for a celebrity to <VERB> . ,neg,stay ,4931ca1d-3aed-4100-8b18-badeaef56285,4
+778,He ordered a hand cart and eagerly waited for it to arrive.,He ordered a hand cart and eagerly waited for it to <VERB> . ,equal,arrive ,f57a32c1-6a07-413a-b6bf-b2a2df72bbf1,4
+779,He decided to try out for a select baseball team.,He <VERB> to try out for a select baseball team . ,pos,decide ,d5b402b2-e009-4996-a604-6fb32945cf7e,2
+780,There was a squirrel running around outside of my apartment.,There was a squirrel <VERB> around outside of my apartment . ,pos,run ,f39ab12f-439a-46d3-84a6-d3e208b37594,1
+781,"It hurt pretty bad, and Chad got mad.","It hurt pretty bad , and Chad <VERB> mad . ",pos,get ,8c630f4d-4a78-40e3-8e44-d033ee1957d4,3
+782,Cam promised that this year he would not get drunk.,Cam promised that this year he would not <VERB> drunk . ,pos,get ,7dafaf9c-28d9-4319-8e6a-f3980fa4b097,4
+783,It looked like a storm was coming.,It looked like a storm was <VERB> . ,pos,come ,c1fd5f3e-29b5-4378-8938-f2ae93dede56,3
+784,"Phoebe told the manager, and he quickly found the dog's owner.","Phoebe told the manager , and he quickly <VERB> the dog 's owner . ",equal,find ,eaca7281-3f92-4d97-add6-2314b86b39bf,5
+785,After I tutored him a bit he asked the coach about the team.,After I tutored him a bit he <VERB> the coach about the team . ,pos,ask ,d2768e0c-692c-4a6e-a3c2-04c3b41c8c03,4
+786,So she decided to cook a large meal for herself.,So she decided to <VERB> a large meal for herself . ,pos,cook ,a3a08e3e-1891-4f12-9085-048820e0cc71,2
+787,Billy drew the longest straw and Sean had to clean the bathroom.,Billy drew the longest straw and Sean had to <VERB> the bathroom . ,pos,clean ,6e464559-0dc6-4969-ad37-83b083e7ff16,5
+788,So she decided to go there and buy bread.,So she decided to go there and <VERB> bread . ,pos,buy ,81b0f5a9-c9d0-4bb9-8a7d-d8992d8390e1,2
+789,It created enough smoke to set off the smoke alarm.,It <VERB> enough smoke to set off the smoke alarm . ,pos,create ,378e0656-c9f5-47c6-aaa5-19941fec1c66,5
+790,"Michael was blunt, telling Jose that he was the best worker on staff.","Michael was blunt , <VERB> Jose that he was the best worker on staff . ",pos,tell ,6fc21408-04eb-40b6-81a6-036b9a104111,4
+791,Linda worked in a restaurant.,Linda <VERB> in a restaurant . ,pos,work ,30642d6f-57c2-4ed8-8780-dcacb43aa6e7,1
+792,He got paint on his shirt.,He <VERB> paint on his shirt . ,pos,get ,1313dfdf-f155-442b-9093-cb5eb2c36637,3
+793,But a few true friends showed up.,But a few true friends <VERB> up . ,pos,show ,f10e1b31-29d8-4646-9869-28fb084dccd3,3
+794,She wanted to meet a new boyfriend.,She wanted to <VERB> a new boyfriend . ,pos,meet ,6d00bea2-aaae-45d6-b292-a78063884b1d,3
+795,His friends all told him not to.,His friends all <VERB> him not to . ,pos,tell ,55ad025b-470b-4222-9fde-0d84656e36a4,4
+796,I built a snowman and an angel.,I <VERB> a snowman and an angel . ,pos,build ,eaca8281-f312-47d6-a769-d1182362619f,3
+797,I took of my jacket when I got home.,I took of my jacket when I <VERB> home . ,pos,get ,6055a54f-5ba5-4080-97e5-76f7a2b09f00,4
+798,Josh had been studying for a very important test.,Josh had been <VERB> for a very important test . ,pos,study ,6fcce469-3f05-44ad-8624-fcc5c2b2cd21,2
+799,He got on the dance floor and busted some moves.,He got on the dance floor and <VERB> some moves . ,pos,bust ,4c5c62ca-d26b-4eb9-99d1-d402911f430c,5
+800,Anne was overwhelmed at worked.,Anne was <VERB> at worked . ,pos,overwhelm ,aa673a46-8463-4c01-acc0-20ffc57ad855,1
+801,He took a martial arts course and built his self-confidence.,He took a martial arts course and <VERB> his self - confidence . ,pos,build ,39424659-b1db-43b3-ad4a-7516f8b37bb1,4
+802,He had exhausted himself from too much training.,He had <VERB> himself from too much training . ,pos,exhaust ,6c89bdcc-e11f-43ba-91ec-c0aa596cec26,5
+803,Neil thought Vienna was the most musical city on earth!,Neil <VERB> Vienna was the most musical city on earth ! ,pos,think ,2fb87817-dfb5-4d7a-b70a-b4210bf6feee,5
+804,The next person in line thanked them for not buying the last ticket.,The next person in line thanked them for not <VERB> the last ticket . ,pos,buy ,e1bf643c-de8f-43a4-99e0-211c2871e705,5
+805,We play Minecraft every day now.,We <VERB> Minecraft every day now . ,pos,play ,42c2d901-5061-4c28-afbf-d7ba22f46d9a,5
+806,Instead of taking the tube he bent down and kissed her.,Instead of taking the tube he <VERB> down and kissed her . ,pos,bend ,90694fbd-049b-4e47-84e3-88749193600d,5
+807,The teacher told me to go to her.,The teacher told me to <VERB> to her . ,equal,go ,691ce899-e9bf-48a0-9eee-6028042292b2,4
+808,The clerk offered to order the shirt for Mary.,The clerk <VERB> to order the shirt for Mary . ,pos,offer ,9b1eadba-d68e-4655-baab-8d664b63111b,5
+809,But his contact showed up and took him to campus.,But his contact <VERB> up and took him to campus . ,pos,show ,d9645f21-e63d-40eb-8ee1-0ebbcf5e86d7,5
+810,I locked it at the bicycle rack outside school.,I <VERB> it at the bicycle rack outside school . ,pos,lock ,835be90d-dc26-44de-8d8e-52dda10da1e8,2
+811,That summer alone I made five hundred dollars!,That summer alone I <VERB> five hundred dollars ! ,pos,make ,ad4ecc8b-08ed-4189-ab19-f9b5a95aba66,5
+812,He left a message hoping to get a call back.,He left a message hoping to <VERB> a call back . ,pos,get ,af3ba7d3-13e4-4045-847b-6a58e4f8a131,3
+813,Gary was pleased with the help his friends offered him.,Gary was pleased with the help his friends <VERB> him . ,pos,offer ,20a62d5e-3c12-4bed-8b14-8a5cd0801d36,5
+814,The heater was not working in the house.,The heater was not <VERB> in the house . ,pos,work ,04a6ec1b-d5ff-435e-a752-6f8ad02a25de,1
+815,John apologized.,John <VERB> . ,pos,apologize ,3eda14af-da11-4852-8596-ab7ccb8ba15e,4
+816,Her husband walked out on the movie and didn't come back.,Her husband walked out on the movie and did n't <VERB> back . ,pos,come ,2de2b88f-8fe4-4ac8-9fc6-ef34c130cc91,3
+817,"But when she got home, a dozen people yelled SURPRISE!","But when she <VERB> home , a dozen people yelled SURPRISE ! ",pos,get ,1e3c8156-6b90-4b77-ac01-4cde2215851c,4
+818,We bought horses.,We <VERB> horses . ,pos,buy ,89179af3-d825-438e-a698-b7eb4e5de558,4
+819,Kaleb quickly became addicted to the nicotine.,Kaleb quickly <VERB> addicted to the nicotine . ,pos,become ,96d8d3a5-8cde-4c8a-b4a8-08a91ae5b1b4,4
+820,He practiced asking her out over and over.,He practiced <VERB> her out over and over . ,pos,ask ,d85343b9-a34a-4890-9958-da719c97ad69,3
+821,The tow truck had to come to tow her poor car,The tow truck had to <VERB> to tow her poor car ,pos,come ,02c9c4d1-44e3-4add-8268-5e7df8949047,3
+822,I used my phone's GPS to find my way back onto one of the trails.,I used my phone 's GPS to <VERB> my way back onto one of the trails . ,equal,find ,b9e632bb-57dc-4042-a2bf-54f298ac9a99,4
+823,She recorded videos of herself covering many songs.,She recorded videos of herself <VERB> many songs . ,pos,cover ,afb43d5b-b2d2-4820-ad4e-b0a9b20e97fa,2
+824,"The audience gave him a lot of good tips, and Bill got much better.","The audience gave him a lot of good tips , and Bill <VERB> much better . ",pos,get ,fc398028-c0fe-4f3c-ae7d-593f6f9ee73c,4
+825,Sam met his future wife in the unemployment line.,Sam <VERB> his future wife in the unemployment line . ,pos,meet ,c5dbbc5c-90b9-4b42-a3ec-1dc98bbc164c,4
+826,His cornfields had all lain fallow for over half a decade.,His cornfields had all <VERB> fallow for over half a decade . ,pos,lie ,cdd58d83-3a6e-4859-8ec3-0abe0947f164,4
+827,Rocky was picking fruit from the orchard.,Rocky was <VERB> fruit from the orchard . ,pos,pick ,677943e3-25dd-4ad9-bf2b-48d0467732b6,1
+828,"One morning, one of her brothers got hit by a car.","One morning , one of her brothers <VERB> hit by a car . ",pos,get ,2876dfb3-fefe-490a-81f5-7ff3e20e9697,4
+829,The Cubs scored a run early last night with their ace on the mound.,The Cubs <VERB> a run early last night with their ace on the mound . ,pos,score ,00afbf4d-c183-4209-ac11-8152507bcc57,3
+830,He was afraid of becoming addicted to them like his dad did.,He was afraid of <VERB> addicted to them like his dad did . ,pos,become ,767e619d-92c4-432b-b718-c56f96789a07,3
+831,His phone didn't work well.,His phone <VERB> n't work well . ,pos,do ,baba9286-7dc0-449c-85d1-b1e8e4931d40,2
+832,Then when they weren't looking Jeff Used a special ball.,Then when they were n't <VERB> Jeff Used a special ball . ,equal,look ,be5ef731-b65b-458b-bdbf-5146c68650ac,4
+833,As he never played with the same people no one noticed it.,As he never played with the same people no one <VERB> it . ,equal,notice ,2ae9c291-554c-4516-aaae-adf35b649be1,3
+834,One man walked away when the price got too high.,One man walked away when the price <VERB> too high . ,pos,get ,4859b648-5810-4941-bc73-4b48a9badba4,5
+835,He circled the yard for a while.,He <VERB> the yard for a while . ,pos,circle ,76add981-bc87-441f-aedc-2ce25a3914e6,2
+836,I got a filling and the cavity is fixed.,I got a filling and the cavity is <VERB> . ,pos,fix ,ce9ba021-1acf-4e28-b3a0-f553c4638cb2,4
+837,Jayla told the clerk to watch the man.,Jayla <VERB> the clerk to watch the man . ,pos,tell ,b3a5f96a-a04e-426b-893f-62c7983a20d6,5
+838,Alida wanted to get back with her boyfriend.,Alida wanted to <VERB> back with her boyfriend . ,pos,get ,7527dc1f-8afb-4eeb-870f-1780d3c369c2,1
+839,Andy was so mad that he punched a hole in the wall.,Andy was so mad that he <VERB> a hole in the wall . ,pos,punch ,d91e2f6e-a70a-44a6-a188-1e7e3eab8ba7,4
+840,Suddenly he heard a rejecting sound and the clerk said no.,Suddenly he heard a <VERB> sound and the clerk said no . ,pos,reject ,0f09f2d7-ff04-4318-b6ba-6bf041459dc0,4
+841,He wanted to give back somehow.,He wanted to <VERB> back somehow . ,pos,give ,c33ba978-ea51-48e5-a91e-234ee6bdeae7,2
+842,"After the judges handed in their scorecards, Fran exited the arena.","After the judges handed in their scorecards , Fran <VERB> the arena . ",pos,exit ,29161b75-ece0-4b83-adcf-99fd38167341,5
+843,His friend Brad offered him a cigarettes later that night.,His friend Brad <VERB> him a cigarettes later that night . ,pos,offer ,18916d3b-ea22-43d6-9f8a-887493957e92,3
+844,Eric refused to ask for directions and ran out of gas.,Eric refused to <VERB> for directions and ran out of gas . ,pos,ask ,87a19585-6615-4793-a63d-8363a482618d,4
+845,They did not know the rules so they made them up.,They <VERB> not know the rules so they made them up . ,pos,do ,c409d167-1deb-4339-9f67-9de1b3deda9d,2
+846,He looked around and smiled nervously.,He <VERB> around and smiled nervously . ,equal,look ,dc3cace6-d31c-47b7-98a8-b2f895111446,3
+847,His brother wanted to try it out.,His brother wanted to <VERB> it out . ,pos,try ,b4f9646c-e4bf-4e0b-88bf-e12c5c3dda97,3
+848,Daniel loved dinosaurs a lot.,Daniel <VERB> dinosaurs a lot . ,pos,love ,6e377c3b-fe3a-46f8-a003-9b23b28981d6,1
+849,Kevin did poorly on the test.,Kevin <VERB> poorly on the test . ,pos,do ,6dff7f81-1082-448d-a413-963612c6d27a,5
+850,They said a roundabout was ahead.,They <VERB> a roundabout was ahead . ,pos,say ,72f78fcf-4720-471a-9bde-4961f96c9fa0,3
+851,She shopped for sale items for which she had coupons.,She <VERB> for sale items for which she had coupons . ,pos,shop ,7114776e-c03a-4fe3-92cc-e87938526290,3
+852,It didn't matter because the teacher still gave her an A.,It <VERB> n't matter because the teacher still gave her an A. ,pos,do ,68a88150-b2ba-403c-9d17-c81bcc68b7b5,4
+853,The orthodontist gave her braces that she wore outside her mouth.,The orthodontist <VERB> her braces that she wore outside her mouth . ,pos,give ,278c521c-7293-4f22-b1bf-81b147070133,3
+854,She spent two hours trying on all kinds of clothing.,She <VERB> two hours trying on all kinds of clothing . ,pos,spend ,c970c339-504a-4ade-bcde-9b58fda4e501,4
+855,They did everything he asked but fired them all anyway.,They did everything he <VERB> but fired them all anyway . ,pos,ask ,70ae7aa3-c11a-40ec-bab6-597bf29d21a5,5
+856,I shuffled through the assorted flavors.,I <VERB> through the assorted flavors . ,pos,shuffle ,b38cc7ee-a01c-4231-a2ce-2ad7ffead66e,4
+857,I tap danced and practiced.,I tap <VERB> and practiced . ,pos,dance ,16e2be7a-7391-446d-acdc-04d7d2a5e622,4
+858,He would sit on the bed until I finally got up.,He would sit on the bed until I finally <VERB> up . ,pos,get ,676666f3-0404-48df-8ae3-609f8927ca24,4
+859,Fred said no.,Fred <VERB> no . ,pos,say ,5eefd333-592e-4885-949a-d48076f33b0d,4
+860,Diva is not allowed in the garden.,Diva is not <VERB> in the garden . ,pos,allow ,dee66fbe-fdf6-4476-aa49-07614bdd1e21,2
+861,Aaron had a difficult test coming up.,Aaron had a difficult test <VERB> up . ,pos,come ,ce558d6e-ad96-467e-be42-b3a32fed3b08,1
+862,Samantha discovered Booger Balls splattered all over the backyard.,Samantha <VERB> Booger Balls splattered all over the backyard . ,pos,discover ,8097e737-78d5-4709-baf2-a5726cf004a4,1
+863,"He kept barking, but suddenly ran back inside.","He kept <VERB> , but suddenly ran back inside . ",equal,bark ,a678da34-c7f2-4f2c-b4b0-a2f9aa42f37e,3
+864,Kia resolved to be grateful and happy for her life.,Kia <VERB> to be grateful and happy for her life . ,pos,resolve ,bd20ef30-0830-4103-b2b3-5d90121862fb,5
+865,She was the only girl wearing a t-shirt instead of a bra.,She was the only girl <VERB> a t - shirt instead of a bra . ,pos,wear ,4b26342b-af0d-4096-a159-0465a612ce24,3
+866,Joe was doing poorly in school.,Joe was <VERB> poorly in school . ,pos,do ,e64b5900-040b-4023-9502-80da3dee82ad,1
+867,Bobby loved going to the zoo.,Bobby loved <VERB> to the zoo . ,equal,go ,56cf2fd7-abb9-4ad5-a9d4-505cba1206c4,1
+868,Then her mom suggested a great solution: add toppings.,Then her mom suggested a great solution : <VERB> toppings . ,pos,add ,dacdcafd-60de-489b-896c-5db1ed2a6c09,3
+869,I got dressed in my suit.,I got <VERB> in my suit . ,pos,dress ,eaa53b75-80bf-4ef7-9b53-df1b25328022,2
+870,She bet that Ann couldn't drink two liters of soda in under an hour.,She <VERB> that Ann could n't drink two liters of soda in under an hour . ,pos,bet ,6341cb9a-79c3-406e-b4a0-63b28129ac53,2
+871,She was heading to the county fair.,She was <VERB> to the county fair . ,pos,head ,7e890c52-3291-4127-b676-5d0609bc70f3,2
+872,Kim wanted to make steak and mushrooms for dinner.,Kim wanted to <VERB> steak and mushrooms for dinner . ,pos,make ,9afda710-5c01-462a-9705-b52f6b29a9d8,1
+873,John's mother wanted to surprise him.,John 's mother wanted to <VERB> him . ,pos,surprise ,d5d7ca17-23b6-40b6-a0a0-323fdf4b67b3,2
+874,She was talking on it one afternoon.,She was <VERB> on it one afternoon . ,pos,talk ,84f81c40-250e-491d-809e-0359d168b36d,2
+875,Mitchell organizes the funeral for his father.,Mitchell <VERB> the funeral for his father . ,pos,organize ,86146266-6369-4aae-bfdb-0ecd59e25e24,4
+876,One week Cruz was busy with his new game and didn't study.,One week Cruz was busy with his new game and <VERB> n't study . ,pos,do ,de349d57-0af6-4e30-a2f4-581ebb779b9c,4
+877,He went to an art store and bought an expensive pen.,He went to an art store and <VERB> an expensive pen . ,pos,buy ,ad152c47-15f9-4ad2-978c-1532c5d7e7d2,3
+878,She was used to getting good grades.,She was used to <VERB> good grades . ,pos,get ,c2a4c688-bf76-4793-99cf-8433cd767ad9,2
+879,I fixed the program and the coefficients were correct!,I <VERB> the program and the coefficients were correct ! ,pos,fix ,aa8156ce-0e81-4651-b3a9-f98b7bbfaa00,5
+880,Ryan loves wearing sweaters.,Ryan <VERB> wearing sweaters . ,pos,love ,7402f254-1fc2-4f80-8efe-52f0504ff932,1
+881,"This year, Pa Wilson bought a huge 9 foot tree.","This year , Pa Wilson <VERB> a huge 9 foot tree . ",pos,buy ,603054d8-b0c0-4769-9515-d0b22b8908b2,2
+882,"Once the pizza came, they broke it into several pieces.","Once the pizza came , they <VERB> it into several pieces . ",pos,break ,4c3f0dfc-8916-40e7-bcc9-d82910c5f8a5,3
+883,It started to get dark.,It started to <VERB> dark . ,pos,get ,e851e048-854d-4508-80c0-6e0683d978fa,3
+884,Jay rewarded Rex with a treat for his obedience!,Jay <VERB> Rex with a treat for his obedience ! ,pos,reward ,0f49fa9d-4809-43fe-8f32-7f80acb91c16,5
+885,He bought the outfit at the store.,He <VERB> the outfit at the store . ,pos,buy ,122f4a00-d1aa-4ce7-a85c-569311887905,2
+886,Everyone was quite upset for a long time before making up.,Everyone was quite upset for a long time before <VERB> up . ,pos,make ,59881d14-d342-4aea-b331-89fb357a5680,5
+887,He told funny stories about his days as a milkman.,He <VERB> funny stories about his days as a milkman . ,pos,tell ,3566c62f-3463-4aa6-9e6b-6d352eaeede8,3
+888,His daughter got to the pens.,His daughter <VERB> to the pens . ,pos,get ,3ee60cd3-5e36-42cb-9ca6-77de64908309,2
+889,She had to return it for a refund.,She had to <VERB> it for a refund . ,pos,return ,8ba79988-6830-47b0-bd96-437ebd87d9ce,5
+890,He bought trucks off online.,He <VERB> trucks off online . ,pos,buy ,d196c86f-6d89-4d5d-8869-de88e075b25c,3
+891,He said he'd be here first thing tomorrow morning.,He <VERB> he 'd be here first thing tomorrow morning . ,pos,say ,0e7d23d5-a3e5-43f4-81ef-56db84bc3a83,5
+892,Janet immediately opened every gift she could get her hands on.,Janet immediately opened every gift she could <VERB> her hands on . ,pos,get ,bab18659-1ed0-4029-ada4-2135e70f176e,4
+893,Jason took a guilty nap.,Jason <VERB> a guilty nap . ,pos,take ,ad3862ae-56cf-448b-a6eb-b0fd4ebecd5e,5
+894,Even her attempt at a ponytail didn't work out.,Even her attempt at a ponytail <VERB> n't work out . ,pos,do ,73b53336-6fad-4c78-87a7-860f9c02c88c,3
+895,Toisanese has become less used over the years.,Toisanese has <VERB> less used over the years . ,pos,become ,794e18d6-18b9-4f7e-8672-e429d623eff0,3
+896,But noon he had ran out of fresh tissues.,But noon he had <VERB> out of fresh tissues . ,pos,run ,6d552e4b-698f-4fe3-afbf-2155abe1c35a,3
+897,She wanted to roast marshmallows.,She wanted to <VERB> marshmallows . ,pos,roast ,6fa6a1b2-6746-46d6-810f-919a2978ffde,2
+898,She asked the man at the meat counter about some steak.,She <VERB> the man at the meat counter about some steak . ,pos,ask ,149888b9-f1d3-461e-adae-398ef8f20472,2

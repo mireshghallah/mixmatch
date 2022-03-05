@@ -1,0 +1,1 @@
+python -Wignore ../batched_MH/scripts/jx_cls/cnn_classify.py  --run_classification_eval --file_dir $1 --classifier_dir $2
