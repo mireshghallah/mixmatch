@@ -1,14 +1,18 @@
-# mixmatch
+# Mix and Match
 Repository for ACL 2022 paper Mix and Match: Learning-free Controllable Text Generation using Energy Language Models
 
+# Creating the Environment
+
+
+```bash
+conda create --name env --file package-list.txt
+```
 
 # File structure
 
-In this repo you see mix_match_code, which contains all the scripts for running generation and evaluation. Under data, you would see one compressed file, comprising of two directories, mix_match_generations and mix_match_data. The first one has the sample generations, and contains two folders, one for human evaluations against FUDGE and PPLM (human_evals_fudge_pplm), and the other for automatic evaluations, for sentiment and bias (output_samples_bias_sentiment). We have not included the data files for the formality, since the GYAFC dataset requires permission for access, so we cannot release it. 
+In this repo you see mix_match_code, which contains all the scripts for running generation and evaluation. The sampl_generations directory contains sample generations, and has two folders, one for human evaluations against FUDGE and PPLM (human_evals_fudge_pplm), and the other for automatic evaluations, for sentiment and bias (output_samples_bias_sentiment). We have not included the data files for the formality, since the GYAFC dataset requires permission for access, so we cannot release it. 
 
-The mix_match_data/clsf_data folder contains training samples for training the classifiers, which could be avoided if huggingface classifiers are used. mix_match_data/data contains the prompts/original sentences used for generation/transfer.
-
-All the checkpoints of our models/classifiers are available here: https://zenodo.org/record/5855005
+The mix_match_data/clsf_data folder contains training samples for training the classifiers, which could be avoided if huggingface classifiers or our own  classifiers (checkpoints available here: https://zenodo.org/record/5855005) are used.
 
 # Run Generation
 
@@ -18,7 +22,13 @@ Once you open the mix_match_code folder, place mix_match_data/data in mix_match_
 sample_batched.sh
 ```
 
-you can run sample_batched_boost.sh, to the the boosted version.  You can go to pplm and topic folders to get similar scripts. 
+you can run sample_batched_boost.sh, to the the boosted version.  The PPLM folder generates with PPLM prompts using our method (for comparison with PPLM), the topic folder does topic-oriented generation (for comparison with FUDGE), the yelp folder scripts can be used for yelp sentiment transfer, and form_em can be used for formality transfer.
+
+
+
+
+
+
 
 # Get Metrics
 
