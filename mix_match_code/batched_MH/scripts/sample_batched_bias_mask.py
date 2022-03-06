@@ -19,7 +19,7 @@ import argparse
 parser = argparse.ArgumentParser(description="style transfer")
 
 
-parser.add_argument("--dict_path", type=str, help="dir", default='../../data/bias/agency_power.csv')
+parser.add_argument("--dict_path", type=str, help="dir", default='./data/bias/agency_power.csv')
 
 
 parser.add_argument("--max_iter", type=int, help="number of changes to make in the gibbs chain", default=100)

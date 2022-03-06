@@ -19,7 +19,7 @@ import argparse
 parser = argparse.ArgumentParser(description="style transfer")
 
 
-parser.add_argument("--dict_path", type=str, help="dir", default='/home/user/dir.projects/sent_analysis/sent_anlys/batched_MH/data/topic/topic_dict.csv')
+parser.add_argument("--dict_path", type=str, help="dir", default='./data/topic/topic_dict.csv')
 
 parser.add_argument("--max_len", type=int, help="number of changes to make in the gibbs chain", default=12)
 parser.add_argument("--max_iter", type=int, help="number of changes to make in the gibbs chain", default=100)

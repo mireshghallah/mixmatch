@@ -19,10 +19,10 @@ The mix_match_data/clsf_data folder contains training samples for training the c
 Once you open the mix_match_code folder, place mix_match_data/data in mix_match_code/batched_MH/ and then navigate to mix_match_code/batched_MH/scripts, where you will see folders for each task. For instance, bias, is for the de-biasing task. To run the experiments, run:
 
 ```bash
-sample_batched.sh
+bash ./mix_match_code/batched_MH/scripts/bias/sample_batched.sh
 ```
 
-you can run sample_batched_boost.sh, to the the boosted version.  The PPLM folder generates with PPLM prompts using our method (for comparison with PPLM), the topic folder does topic-oriented generation (for comparison with FUDGE), the yelp folder scripts can be used for yelp sentiment transfer, and form_em can be used for formality transfer.
+Before running, *make sure you set the disc_dir to where you have placed your classifier*, or if it is an huggingface classifier, place the model name there. You can run sample_batched_boost.sh, to the the boosted version, or sample_batched_mask.sh to run the masked version ablation.  The PPLM folder generates with PPLM prompts using our method (for comparison with PPLM), the topic folder does topic-oriented generation (for comparison with FUDGE), the yelp folder scripts can be used for yelp sentiment transfer, and form_em can be used for formality transfer.
 
 
 
@@ -30,12 +30,13 @@ you can run sample_batched_boost.sh, to the the boosted version.  The PPLM folde
 
 # Get Metrics
 
-For getting all our evaluation metrics, navigate to mix_match_code/get_metrics, and you will see all evaluation scripts there. To get the metrics for bias, run:
+To get the evaluation the metrics for the de-biasing experiment, run:
 
 ```bash
-get_abl_metrics_bias.sh
+bash ./mix_match_code/get_metrics/get_abl_metrics_bias.sh
 ```
 
+We have set some of our existing generations there, so when you run you will get metrics for those. You can also change it and replace it with your own generations. Run the script for other datasets/tasks to get their metrics. 
 
 
 # Runing Generation for Baselines

@@ -32,7 +32,7 @@ parser.add_argument("--top_k", type=int, help="top_k sampler-so far only degener
 parser.add_argument("--burnin", type=int, help="burn in for degenerate support", default=250)
 
 
-parser.add_argument("--dict_path", type=str, help="dir", default='../../data/bias/agency_power.csv')
+parser.add_argument("--dict_path", type=str, help="dir", default='./data/bias/agency_power.csv')
 parser.add_argument("--data_path", type=str, help="dir", default='./data/yelp')
 parser.add_argument("--attr_path", type=str, help="dir", default='./data/yelp')
 
