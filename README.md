@@ -12,7 +12,9 @@ conda create --name env --file package-list.txt
 
 In this repo you see mix_match_code, which contains all the scripts for running generation and evaluation. The sampl_generations directory contains sample generations, and has two folders, one for human evaluations against FUDGE and PPLM (human_evals_fudge_pplm), and the other for automatic evaluations, for sentiment and bias (output_samples_bias_sentiment). We have not included the data files for the formality, since the GYAFC dataset requires permission for access, so we cannot release it. 
 
-The mix_match_data/clsf_data folder contains training samples for training the classifiers, which could be avoided if huggingface classifiers or our own  classifiers (checkpoints available here: https://zenodo.org/record/5855005) are used.
+All the  classifier checkpoints are available [here](https://zenodo.org/record/5855005).
+
+Data for training the classifiers is available here (if you want to train your own) [here](https://drive.google.com/drive/folders/1JJE89FO4Z88fm85cmTVw1sjE7pa4Gyki?usp=sharing).
 
 # Run Generation
 
@@ -62,6 +64,18 @@ You can re-produce the human evaluation  based on the generated outputs and the 
 
 
 ```bash
-python /home/fmireshg/berglab.projects/sent_analysis/mixmatch/mix_match_code/batched_MH/scripts/human_eval_result_fudge.py 
-python /home/fmireshg/berglab.projects/sent_analysis/mixmatch/mix_match_code/batched_MH/scripts/human_eval_result.py 
+python ./mix_match_code/batched_MH/scripts/human_eval_result_fudge.py 
+python ./mix_match_code/batched_MH/scripts/human_eval_result.py 
 ```
+
+
+# Training Classifiers
+
+You can use huggingface classifiers, or our checkpoints provided in the link on the top of the page. However, if you want to train your own, you can download the training data from [this link](https://drive.google.com/drive/folders/1JJE89FO4Z88fm85cmTVw1sjE7pa4Gyki?usp=sharing), provide the data directory to the following script and run it.
+
+```bash
+bashe ./mix_match_code/clsf_train/run_classification_bias.sh
+
+```
+
+You can run other scripts in the directory to train for other tasks/datasets. 
