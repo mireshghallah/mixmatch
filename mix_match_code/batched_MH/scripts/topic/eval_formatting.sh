@@ -37,7 +37,7 @@ python /home/user/dir.projects/sent_analysis/sent_anlys/get_metrics/topic_eval_f
 
 
 
-###BAAADDD
+
 python /home/user/dir.projects/sent_analysis/sent_anlys/get_metrics/topic_eval_formatting.py \
 --checkpoint_dir_1 mask_disc_max_len_40_none_data_test_1_0.3_energy_max_iter_20_temp_1.0_shuffle_True_block_False_alpha_0.0_beta_1.0_delta_0.0_gamma_0.0_theta_50.0_date_13_01_2022_08_36_17 \
 --checkpoint_dir_2 mask_disc_max_len_40_none_data_test_2_0.3_energy_max_iter_20_temp_1.0_shuffle_True_block_False_alpha_0.0_beta_1.0_delta_0.0_gamma_0.0_theta_50.0_date_13_01_2022_08_36_22
