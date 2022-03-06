@@ -9,7 +9,7 @@ python ./mix_match_code/batched_MH/scripts/sample_batched_topic_prompt.py \
 --beta 1 \
 --delta 0 \
 --gamma 0 \
---theta 0 \
+--theta 20 \
 --batch_size 20 \
 --data_name test_2_full_energy  \
 --disc_name  none \

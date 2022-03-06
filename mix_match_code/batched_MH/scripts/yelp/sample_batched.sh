@@ -3,9 +3,9 @@ python ./mix_match_code/batched_MH/scripts/sample_batched.py \
 --shuffle_positions \
 --temperature 1.0 \
 --out_path ./output_samples/yelp \
---alpha 1  \
---beta 0 \
---delta 1 \
+--alpha 100  \
+--beta 1 \
+--delta 50 \
 --data_name yelp_li_test \
 --disc_name  yelp_100 \
 --disc_dir  /home/fmireshg/berglab.projects/sent_analysis/sent_anlys/clsf_train/yelp_cls_2/models/checkpoint-100 \

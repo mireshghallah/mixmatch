@@ -3,7 +3,7 @@
 
 python ./mix_match_code/batched_MH/scripts/sample_batched_prompt.py \
 --max_iter 15 \
---max_len 20 \
+--max_len 12 \
 --shuffle_positions \
 --temperature 1.0 \
 --out_path ./output_samples/pplm \

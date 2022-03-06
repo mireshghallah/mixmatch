@@ -1,11 +1,11 @@
 
 
 python ./mix_match_code/batched_MH/scripts/sample_batched_bias_mask.py \
---max_iter 10 \
+--max_iter 30 \
 --shuffle_positions \
 --temperature 1.0 \
 --out_path ./output_samples/bias \
---alpha 300  \
+--alpha 100  \
 --beta 1 \
 --delta 0 \
 --gamma 0 \

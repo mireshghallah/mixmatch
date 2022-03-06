@@ -2,7 +2,7 @@
 
 
 python ./mix_match_code/batched_MH/scripts/sample_batched_bias_mask.py \
---max_iter 8 \
+--max_iter 30 \
 --shuffle_positions \
 --temperature 1.0 \
 --out_path ./output_samples/bias \

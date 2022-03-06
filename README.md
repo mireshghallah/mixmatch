@@ -21,10 +21,12 @@ Data for training the classifiers is available here (if you want to train your o
 Once you open the mix_match_code folder, place mix_match_data/data in mix_match_code/batched_MH/ and then navigate to mix_match_code/batched_MH/scripts, where you will see folders for each task. For instance, bias, is for the de-biasing task. To run the experiments, run:
 
 ```bash
-bash ./mix_match_code/batched_MH/scripts/bias/sample_batched.sh
+bash bash ./mix_match_code/batched_MH/scripts/yelp/sample_batched.sh
 ```
 
-Before running, *make sure you set the disc_dir to where you have placed your classifier*, or if it is an huggingface classifier, place the model name there. You can run sample_batched_boost.sh, to the the boosted version, or sample_batched_mask.sh to run the masked version ablation.  The PPLM folder generates with PPLM prompts using our method (for comparison with PPLM), the topic folder does topic-oriented generation (for comparison with FUDGE), the yelp folder scripts can be used for yelp sentiment transfer, and form_em can be used for formality transfer.
+Before running, *make sure you set the disc_dir to where you have placed your classifier*, or if it is an huggingface classifier, place the model name there. The outputs will be saved in a folder in the ``out_path'' you provide to the script. The opt_samples.txt is the cleaned, processed outputs. There is also metadata (energy values and other metrics) saved along in the output folder.  
+
+For the de-biasing task, aparat from sample_batched.sh, you can run sample_batched_boost.sh, to run our generation with the agency boosting, or sample_batched_mask.sh to run the verb replacement ablation from the paper.  The PPLM folder generates with PPLM prompts using our method (for comparison with PPLM), the topic folder does topic-oriented generation (for comparison with FUDGE), the yelp folder scripts can be used for yelp sentiment transfer, and form_em can be used for formality transfer.
 
 
 
@@ -35,7 +37,7 @@ Before running, *make sure you set the disc_dir to where you have placed your cl
 To get the evaluation the metrics for the de-biasing experiment, run:
 
 ```bash
-bash ./mix_match_code/get_metrics/get_abl_metrics_bias.sh
+bash ./mix_match_code/get_metrics/get_abl_metrics_yelp.sh
 ```
 
 We have set some of our existing generations there, so when you run you will get metrics for those. You can also change it and replace it with your own generations. Run the script for other datasets/tasks to get their metrics. 
