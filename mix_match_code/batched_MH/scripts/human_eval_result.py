@@ -2,7 +2,7 @@ import csv
 from collections import defaultdict
 import pandas as pd
 
-res_file = "/home/user/dir.projects/sent_analysis/sent_anlys/batched_MH/output_samples/human_pplm/len12.csv"
+res_file = "./sample_generations/human_evals_fudge_pplm/human_pplm/len12_turk_results.csv"
 
 corr_dict = defaultdict(int)
 cnt_dict = defaultdict(int)
@@ -30,7 +30,7 @@ for key1 in cnt_dict.keys():
 print("acc is", corr/cnt)
     
     
-res_file = "/home/user/dir.projects/sent_analysis/sent_anlys/batched_MH/output_samples/human_pplm/len20.csv"
+res_file = "./sample_generations/human_evals_fudge_pplm/human_pplm/len20_turk_results.csv"
 
 corr_dict = defaultdict(int)
 cnt_dict = defaultdict(int)
@@ -58,7 +58,7 @@ for key1 in cnt_dict.keys():
 print("acc is", corr/cnt)
 
 
-res_file = "/home/user/dir.projects/sent_analysis/sent_anlys/batched_MH/output_samples/human_pplm/len50.csv"
+res_file = "./sample_generations/human_evals_fudge_pplm/human_pplm/len50_turk_results.csv"
 
 corr_dict = defaultdict(int)
 cnt_dict = defaultdict(int)

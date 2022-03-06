@@ -2,7 +2,7 @@ import csv
 from collections import defaultdict
 import pandas as pd
 
-res_file = "/home/user/dir.projects/sent_analysis/sent_anlys/batched_MH/output_samples/human_fudge/len_20_results2.csv"
+res_file = "/home/fmireshg/berglab.projects/sent_analysis/mixmatch/sample_generations/human_evals_fudge_pplm/human_fudge/len_20_turk_results.csv"
 
 corr_dict = defaultdict(int)
 cnt_dict = defaultdict(int)
