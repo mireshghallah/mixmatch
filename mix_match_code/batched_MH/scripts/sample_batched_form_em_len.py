@@ -1,4 +1,3 @@
-## Edited and reused from  https://github.com/nyu-dl/bert-gen/blob/master/bert-babble.ipynb
 
 import os
 import random
